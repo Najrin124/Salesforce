@@ -63,6 +63,7 @@
 <img width="1366" height="768" alt="Screenshot from 2026-10-05 17-45-43" src="https://github.com/user-attachments/assets/d8148469-8592-4a57-b73e-52202d53cf95" />
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-05 17-51-06" src="https://github.com/user-attachments/assets/eb3c55a3-e696-4547-b1ce-29386227ee4c" />
 
 
 
