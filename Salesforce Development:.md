@@ -66,12 +66,14 @@
 <img width="1366" height="768" alt="Screenshot from 2026-10-05 17-51-06" src="https://github.com/user-attachments/assets/eb3c55a3-e696-4547-b1ce-29386227ee4c" />
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-05 22-46-13" src="https://github.com/user-attachments/assets/83d63ba2-1104-494c-8b3c-fb8bd01d47b0" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-05 22-48-12" src="https://github.com/user-attachments/assets/3ae4d729-132c-4e4a-88ef-0262df598336" />
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-05 22-50-06" src="https://github.com/user-attachments/assets/a908679f-1563-443d-8f75-84b74ef2cae2" />
 
 
-
-
-
+<img width="1366" height="768" alt="Screenshot from 2026-10-05 22-51-18" src="https://github.com/user-attachments/assets/80540702-1ca7-4620-958c-8b94afa8c186" />
 
 
