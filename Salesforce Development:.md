@@ -28,6 +28,9 @@
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-05 17-17-34" src="https://github.com/user-attachments/assets/5c27acc3-092b-41d1-be3c-328b6f8fa1f5" />
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-05 17-20-21" src="https://github.com/user-attachments/assets/c0f12976-05a5-4e4c-9665-3027031107a6" />
+
+
 
 
 
