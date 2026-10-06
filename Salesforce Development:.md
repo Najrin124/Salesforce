@@ -181,12 +181,18 @@ create a apex class:--
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-06 16-42-49" src="https://github.com/user-attachments/assets/6368a6e6-8489-490a-b92f-0b0aad54e986" />
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 20-38-32" src="https://github.com/user-attachments/assets/cb7c5a6b-07cc-4bd1-95d3-8005d632189f" />
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 20-39-29" src="https://github.com/user-attachments/assets/e180af61-6e77-4676-a5d5-a56c32f14226" />
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 20-42-31" src="https://github.com/user-attachments/assets/5c038c82-1eb0-4138-b704-823c43f0d698" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 20-45-29" src="https://github.com/user-attachments/assets/81ad4c55-f496-4d77-9e26-5e81615fa9c4" />
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-06 19-45-25" src="https://github.com/user-attachments/assets/bd93d010-4096-41fb-a0fd-896bf60d56e6" />
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-06 19-56-04" src="https://github.com/user-attachments/assets/a99b332e-1bee-4d8e-b413-2f93d31f999b" />
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-06 20-35-11" src="https://github.com/user-attachments/assets/c1b265ca-96ac-411d-9256-f72d2b418dda" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 20-46-09" src="https://github.com/user-attachments/assets/83422284-29c7-4840-842f-f6070a10a228" />
