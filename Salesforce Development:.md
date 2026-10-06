@@ -224,6 +224,8 @@ create a apex class:--
 <img width="1366" height="768" alt="Screenshot from 2026-10-06 21-54-13" src="https://github.com/user-attachments/assets/96dfd568-d0e9-4522-b8ee-c8de6ff6f8d5" />
 <img width="1366" height="768" alt="Screenshot from 2026-10-06 21-55-48" src="https://github.com/user-attachments/assets/2717f0f6-0b9e-4a60-8e8c-f036f8472a08" />
 <img width="1366" height="768" alt="Screenshot from 2026-10-06 21-57-13" src="https://github.com/user-attachments/assets/36e82b8b-8f4d-4af2-979f-bc757b10e0d5" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 22-38-26" src="https://github.com/user-attachments/assets/961685d7-359f-488d-ab34-28f602e7a1b0" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 22-42-42" src="https://github.com/user-attachments/assets/3d6c39b5-50b3-4a9c-8f3b-eead9e0f9997" />
 
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-06 22-00-44" src="https://github.com/user-attachments/assets/3a71212d-f932-48ae-8a4a-24bbd2987f77" />
