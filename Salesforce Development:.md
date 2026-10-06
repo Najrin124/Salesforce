@@ -240,3 +240,17 @@ create a apex class:--
 
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-06 22-50-18" src="https://github.com/user-attachments/assets/e9250639-b42f-4f38-a021-af987a427efd" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 22-54-53" src="https://github.com/user-attachments/assets/c764b496-547b-4e08-a626-58e508c240f7" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 22-55-36" src="https://github.com/user-attachments/assets/c3577fbb-207a-4cdb-bbde-31a8f1888adb" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 22-57-30" src="https://github.com/user-attachments/assets/c7bacee6-813f-4c17-a90c-cf610b67d106" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 23-02-52" src="https://github.com/user-attachments/assets/2bbf11de-9049-4d73-b78d-8dc8320654b3" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 23-03-16" src="https://github.com/user-attachments/assets/fc3dc6c9-8aac-484b-bdf9-3191314f8c8e" />
+
