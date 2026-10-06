@@ -316,3 +316,26 @@ create a apex class:--
 <img width="1366" height="768" alt="Screenshot from 2026-10-06 23-41-51" src="https://github.com/user-attachments/assets/49778248-8855-46ba-9711-5b214b7ac505" />
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 23-56-37" src="https://github.com/user-attachments/assets/3e87febb-b807-4ef4-b91c-1d8888b4d7df" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 23-58-53" src="https://github.com/user-attachments/assets/8b6c3561-87d4-4907-b741-8e72392d6fe2" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-07 00-00-31" src="https://github.com/user-attachments/assets/b5cf7268-5cc9-4469-ac9c-d7f654354a12" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-07 00-02-57" src="https://github.com/user-attachments/assets/53c6da1a-d617-4019-8219-7dae908d8aa6" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-07 00-03-36" src="https://github.com/user-attachments/assets/e14de606-368e-42ea-8907-c4850808af0b" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-07 00-11-00" src="https://github.com/user-attachments/assets/356c5a0d-04df-430d-8306-85b11e29d6c6" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-07 00-11-57" src="https://github.com/user-attachments/assets/d2aadde1-2f6b-4962-832e-bb09c62d4d81" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-07 00-16-09" src="https://github.com/user-attachments/assets/a7c0d230-5105-4e43-b9f5-8ba190c47724" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-07 00-16-58" src="https://github.com/user-attachments/assets/9a158a09-ea87-4d1c-891c-2331660b097c" />
+
+
+
+
+
+
