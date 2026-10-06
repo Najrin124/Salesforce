@@ -199,3 +199,17 @@ create a apex class:--
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-06 20-46-09" src="https://github.com/user-attachments/assets/83422284-29c7-4840-842f-f6070a10a228" />
 .
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 21-31-33" src="https://github.com/user-attachments/assets/cfecf039-d852-49c7-bc1e-370dabd1a014" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 21-32-38" src="https://github.com/user-attachments/assets/c0b0d2d9-a14c-4b7f-872d-d2363f5c2f9f" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 21-36-08" src="https://github.com/user-attachments/assets/264efec7-2886-4412-9ea2-c80d7339728a" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 21-36-40" src="https://github.com/user-attachments/assets/0e5288bf-4b56-46ae-8bf4-6e02d130c110" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 21-38-01" src="https://github.com/user-attachments/assets/4afeb278-9384-4893-ace5-9730a5ef1dd9" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-06 21-38-57" src="https://github.com/user-attachments/assets/adcac4a7-91e8-479b-9374-f7d07332e950" />
