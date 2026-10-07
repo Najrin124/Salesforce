@@ -335,6 +335,9 @@ create a apex class:--
 <img width="1366" height="768" alt="Screenshot from 2026-10-07 00-16-58" src="https://github.com/user-attachments/assets/9a158a09-ea87-4d1c-891c-2331660b097c" />
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-07 18-50-00" src="https://github.com/user-attachments/assets/259502c4-694e-4e73-ace9-728e7c95ad02" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-07 18-52-37" src="https://github.com/user-attachments/assets/0c5855e7-00f1-487a-9cdd-ca19ea58bb28" />
 
 
 
