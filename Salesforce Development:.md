@@ -300,6 +300,10 @@ create a apex class:--
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-06 23-33-17" src="https://github.com/user-attachments/assets/f56d075c-ef26-4447-b5a1-1ca4b88ef370" />
 
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 19-22-01" src="https://github.com/user-attachments/assets/ef802d02-2d2e-48c5-991f-4aebf9062007" />
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e225ad44-9ac0-4c46-9a35-926d91040bcc" />
 
 
@@ -402,11 +406,586 @@ create a apex class:--
 
 
 
+1. Create two variables a = 10 and b = 3.
+
+Add a and b and print the result
+
+Subtract b from a and print
+
+Multiply a and b and print
+
+Divide a by b and print
+
+Find remainder when a is divided by b and print
+
+2. Create two variables x = 15 and y = 20
+
+Check if x is greater than y and print
+
+Check if x is less than y and print
+
+Check if x is greater than or equal to 15 and print
+
+Check if y is less than or equal to 20 and print
+
+Check if x is equal to y and print
+
+Check if x is not equal to y and print
+
+3. Create two Boolean variables isPassed = true and hasSubmitted = false
+
+Print result of isPassed and hasSubmitted
+
+Print result of isPassed or hasSubmitted
+
+Print result of not isPassed
+
+4. Create a variable count = 5
+
+Add 3 to count using compound assignment and print
+
+Subtract 2 using compound assignment and print
+
+Multiply by 2 using compound assignment and print
+
+Divide by 3 using compound assignment and print
+
+5. Create a variable num = 7
+
+Increment it by 5 and print
+
+Multiply the result by 2 and print
+
+6. Calculate and print result of 10 + 5 * 2
+
+Then calculate and print (10 + 5) * 2
+
+7. Create two strings "Salesforce" and "Apex"
+
+Combine them and print the result
+
+8. Create a variable score = 65
+
+If score is greater than or equal to 40, print "Pass"
+
+Otherwise, print "Fail"
+
+9. Create a variable num = 17
+
+Print "Even" if divisible by 2, else print "Odd"
+
+10. Create two variables a = 12 and b = 5
+
+Calculate (a + b) * (a - b) and print the result
 
 
 
 
 
+Solution - Challenge 2 - Practice Questions/Assignment : Operators
+Answer 1
+
+Integer score = 75;
+System.debug(score >= 40 ? 'Pass' : 'Fail');
+Answer 2
+
+Integer age = 20;
+System.debug(age >= 18 ? 'Adult' : 'Minor');
+Answer 3
+
+Boolean isActive = false;
+System.debug(isActive ? 'Active User' : 'Inactive User');
+Answer 4
+
+String name = null;
+System.debug(name ?? 'Unknown');
+Answer 5
+
+String city = 'Delhi';
+System.debug(city ?? 'Unknown');
+Answer 6
+
+Integer score = null;
+System.debug(score ?? 0);
+Answer 7
+
+Integer count = 10;
+System.debug(count ?? 0);
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 19-35-09" src="https://github.com/user-attachments/assets/525278d3-6fd3-4199-a9e6-c6209d13d29b" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 19-51-06" src="https://github.com/user-attachments/assets/697ff175-1c53-4562-8f71-c61111a14d3b" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 19-52-13" src="https://github.com/user-attachments/assets/e0d0799a-f95f-44f1-b0b5-a6a17b829c7a" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 19-52-57" src="https://github.com/user-attachments/assets/69def18a-f2d8-46d2-a129-d9656eca2e22" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 19-54-48" src="https://github.com/user-attachments/assets/0a8e646e-6453-4e61-afa6-7f8034136ed5" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 19-55-54" src="https://github.com/user-attachments/assets/c7f0962a-f7d8-44c3-a617-e13f15ac6188" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 19-56-17" src="https://github.com/user-attachments/assets/30e99f11-9c74-493e-8cba-d8ffa5bd000a" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-07-33" src="https://github.com/user-attachments/assets/832a2141-a4c3-4b86-aba1-6e0c58aee5fe" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-10-16" src="https://github.com/user-attachments/assets/33469da3-3d10-4aa9-be5b-74ce8996696e" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-12-13" src="https://github.com/user-attachments/assets/b905211f-8f04-402a-87ab-98d4497b5860" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-12-55" src="https://github.com/user-attachments/assets/64209c24-f8cb-42f4-884b-868f0e79238a" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-13-52" src="https://github.com/user-attachments/assets/ce57f964-8c7a-4e53-9529-325ff8bf3b59" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-16-26" src="https://github.com/user-attachments/assets/27d6873c-d516-40ff-8518-4dff81fb345f" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-17-17" src="https://github.com/user-attachments/assets/26caeb3a-9d88-4a76-8914-d0459aacdd6b" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-18-41" src="https://github.com/user-attachments/assets/eeddda63-ea7a-4c94-9548-7fd8cbbd81f2" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-20-00" src="https://github.com/user-attachments/assets/24d7174e-4b92-4065-b3a6-bffbca4b02b1" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-24-01" src="https://github.com/user-attachments/assets/b3d5b15b-a150-429a-8469-6c336530f299" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-28-07" src="https://github.com/user-attachments/assets/77d4c78f-a335-49db-b5ef-08e404cc240b" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-28-40" src="https://github.com/user-attachments/assets/76ece1bc-a39d-45b7-9036-24f9591d0df7" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-30-19" src="https://github.com/user-attachments/assets/caacc5cc-1662-4ec0-8cc4-18e6c1125743" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-31-42" src="https://github.com/user-attachments/assets/3d1b9b80-0752-4046-a932-d9f6fec2061a" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-32-40" src="https://github.com/user-attachments/assets/d328c224-841c-4f94-987c-401a6e84d865" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-33-13" src="https://github.com/user-attachments/assets/7f884b71-0eb7-4bdc-bf24-9583e7981144" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-34-14" src="https://github.com/user-attachments/assets/6a684dcc-03c2-47e9-987a-0aaa412267ca" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-35-44" src="https://github.com/user-attachments/assets/e74955f9-494c-4859-ba51-2b36375dec55" />
 
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-36-56" src="https://github.com/user-attachments/assets/b3635532-774c-45c1-a791-29a3b3338f4c" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-39-06" src="https://github.com/user-attachments/assets/909bbe9b-c007-4aae-8f9a-fb5903e44c87" />
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-40-07" src="https://github.com/user-attachments/assets/8d50335f-ab14-4cfc-8880-1a4474d27a7e" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-41-05" src="https://github.com/user-attachments/assets/6160f250-49b4-4495-9191-4c8d0371b056" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-41-23" src="https://github.com/user-attachments/assets/d34e7da0-b459-431b-840d-605e69ef15dd" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-41-47" src="https://github.com/user-attachments/assets/472772cb-6877-421a-9b6e-1b048368fdf9" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-42-37" src="https://github.com/user-attachments/assets/aabd95bb-f73d-4e81-aca1-c10d3d9cf9eb" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-42-59" src="https://github.com/user-attachments/assets/ffbdfc93-1c20-41ea-8f42-10ef78b3b687" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-45-03" src="https://github.com/user-attachments/assets/a35101d2-678d-4fa8-98f3-eb02040453cf" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-46-15" src="https://github.com/user-attachments/assets/7fc23655-5c7f-4177-803f-28f651c0750f" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-47-00" src="https://github.com/user-attachments/assets/6662c3a4-ba8e-4f61-b8b6-70b3c1abf882" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-47-33" src="https://github.com/user-attachments/assets/db477a3d-de9f-4566-8890-3643f3524779" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-48-17" src="https://github.com/user-attachments/assets/343cf613-00ae-486a-a0f4-df17fc97ed3e" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-49-43" src="https://github.com/user-attachments/assets/8f8fb2d5-536c-441e-a00d-4d294d6764c0" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-50-28" src="https://github.com/user-attachments/assets/a228ec52-a309-42f5-b48b-739ffdc25d1e" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-50-45" src="https://github.com/user-attachments/assets/4a0dbfe2-4cfc-4aaf-898b-b61ddbc989f0" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-52-06" src="https://github.com/user-attachments/assets/e91e458a-0d9c-4e8c-a00e-cca4516afcf6" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-53-21" src="https://github.com/user-attachments/assets/99d1557c-2395-4f08-adb0-e85546162778" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-53-58" src="https://github.com/user-attachments/assets/1afb6160-f7f9-4eda-b746-8dd5cbafe811" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-55-08" src="https://github.com/user-attachments/assets/60c7ff29-23e0-4633-a004-86e4292571e8" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 20-55-43" src="https://github.com/user-attachments/assets/d3676e3a-a590-4e3a-b3c3-feb069cd7489" />
+
+
+
+
+
+Challenge - Practice Questions/Assignment : Collections
+Question 1
+
+
+Create a List<Integer> with some numbers:
+[1, 5, 10, 20, 15, 8]
+
+Loop through the list and print only the numbers greater than 10.
+
+
+
+Question 2
+
+
+Given a list of strings with duplicates:
+["apple", "banana", "apple", "orange", "banana"]
+
+Produce a new list that only has unique items (no duplicates).
+Print the new list.
+
+
+
+Question 3
+
+
+Given a list of strings:
+["one", "two", "three", "four"]
+
+Print the values in reverse order (without using built-in reverse method).
+
+
+
+Question 4
+
+
+You have two lists of numbers:
+
+list1 = [5, 2, 9]  
+list2 = [3, 8, 1]
+Combine them into one list
+
+Sort the final list
+
+Remove the smallest and largest number
+
+Print the final resulting list
+
+Question 5
+
+
+Given:
+List<Integer> numbers = new List<Integer>{10, 4, 25, 30, 18, 30};
+
+Write Apex code to:
+
+Find and print the second highest number in the list
+
+If there is no second highest (all numbers are same), print
+"No second highest found"
+
+Question 6
+
+
+Given:
+List<String> names = new List<String>{'John', null, '', 'Sara', ' ', 'Mike'};
+
+Clean the list by removing:
+
+null values
+
+empty strings ''
+
+strings that contain only spaces " "
+
+
+
+Question 7
+
+
+You have two lists:
+
+list1 = ['A', 'B', 'C', 'A']  
+list2 = ['C', 'D', 'E']
+Create a single list that:
+
+Contains all values from both lists
+
+Has no duplicates
+
+Is sorted alphabetically
+
+
+
+Question 8
+
+
+Given:
+List<String> names = new List<String>{'Anna', 'John', 'Sanjay', 'Mark', 'Anita'};
+
+Find all names containing "an".
+
+
+
+Question 9
+
+
+Given:
+List<String> fruits = new List<String>{'Apple', 'Banana', 'Apple', 'Orange', 'Banana', 'Apple'};
+
+Count how many times each fruit appears and print like:
+
+Apple: 3  
+Banana: 2  
+Orange: 1
+
+
+Question 10
+
+
+
+Create a set of programming languages:
+
+{'Apex','Java','Python'}
+
+Check if Java is present and print "Found" or "Not Found".
+
+
+
+Question 11
+
+
+
+Given this list: 1, 2, 3, 4, 5, 6
+Create a map where:
+
+key = remainder when number is divided by 2
+
+value = list of numbers with that remainder
+
+Expected output format:
+
+0 => [2, 4, 6]   (even numbers)
+1 => [1, 3, 5]   (odd numbers)
+
+
+Question 12
+
+
+
+Create a map of products and prices:
+
+{'Pen' => 10, 'Notebook' => 25, 'Bag' => 50}
+
+Find which product has the highest price and print both the product name and price.
+
+
+
+Question 13
+
+Given:Question 14
+
+You are given:
+
+Map<String, String> countryCapitals = new Map<String, String>{
+    'India' => 'New Delhi',
+    'USA' => 'Washington',
+    'UK' => 'London',
+    'Japan' => 'Tokyo'
+};
+Write Apex code to:
+
+Check if "Germany" exists as a key.
+
+If not, add it with value "Berlin".
+
+Print the final map.
+
+
+
+Question 15
+
+You are given:
+
+Set<String> items = new Set<String>{'Pen', 'Book', 'Bag', 'Pen', 'Pencil', 'Bag'};
+Write Apex code to:
+
+Print the total number of unique items in the set.
+
+Convert the set to a list.
+
+Sort the list alphabetically.
+
+Print the sorted result.
+
+
+
+
+
+Solution - Challenge : Collections
+Question 1
+List<Integer> nums = new List<Integer>{1, 5, 10, 20, 15, 8};
+ 
+for (Integer n : nums) {
+    if (n > 10) {
+        System.debug(n);
+    }
+}
+Question 2
+List<String> fruits = new List<String>{'apple', 'banana', 'apple', 'orange', 'banana'};
+Set<String> uniqueSet = new Set<String>(fruits);
+List<String> uniqueList = new List<String>(uniqueSet);
+ 
+System.debug(uniqueList);
+Question 3
+List<String> words = new List<String>{'one', 'two', 'three', 'four'};
+ 
+for (Integer i = words.size() - 1; i >= 0; i--) {
+    System.debug(words[i]);
+}
+Question 4
+List<Integer> list1 = new List<Integer>{5, 2, 9};
+List<Integer> list2 = new List<Integer>{3, 8, 1};
+ 
+list1.addAll(list2);
+list1.sort();
+ 
+list1.remove(0); // smallest
+list1.remove(list1.size() - 1); // largest
+ 
+System.debug('Final list: ' + list1);
+Question 5
+List<Integer> numbers = new List<Integer>{10, 4, 25, 30, 18, 30};
+numbers.sort();
+ 
+Integer highest = numbers[numbers.size() - 1];
+Integer secondHighest;
+ 
+for (Integer i = numbers.size() - 2; i >= 0; i--) {
+    if (numbers[i] < highest) {
+        secondHighest = numbers[i];
+        break;
+    }
+}
+ 
+if (secondHighest != null) {
+    System.debug('Second highest number: ' + secondHighest);
+} else {
+    System.debug('No second highest found');
+}
+Question 6
+List<String> names = new List<String>{'John', null, '', 'Sara', ' ', 'Mike'};
+ 
+for (Integer i = names.size() - 1; i >= 0; i--) {
+    if (names[i] == null || names[i].trim() == '') {
+        names.remove(i);
+    }
+}
+ 
+System.debug('Cleaned list: ' + names);
+Question 7
+List<String> list1 = new List<String>{'A', 'B', 'C', 'A'};
+List<String> list2 = new List<String>{'C', 'D', 'E'};
+ 
+Set<String> combined = new Set<String>();
+combined.addAll(list1);
+combined.addAll(list2);
+ 
+List<String> result = new List<String>(combined);
+result.sort();
+ 
+System.debug('Final list: ' + result);
+Question 8
+List<String> names = new List<String>{'Anna', 'John', 'Sanjay', 'Mark', 'Anita'};
+ 
+for (String name : names) {
+    if (name.toLowerCase().contains('an')) {
+        System.debug(name);
+    }
+}
+Question 9
+List<String> fruits = new List<String>{'Apple', 'Banana', 'Apple', 'Orange', 'Banana', 'Apple'};
+Map<String, Integer> countMap = new Map<String, Integer>();
+ 
+for (String fruit : fruits) {
+    if (!countMap.containsKey(fruit)) {
+        countMap.put(fruit, 1);
+    } else {
+        countMap.put(fruit, countMap.get(fruit) + 1);
+    }
+}
+ 
+for (String key : countMap.keySet()) {
+    System.debug(key + ': ' + countMap.get(key));
+}
+Question 10
+Set<String> languages = new Set<String>{'Apex', 'Java', 'Python'};
+ 
+if (languages.contains('Java')) {
+    System.debug('Found');
+} else {
+    System.debug('Not Found');
+}
+Question 11
+List<Integer> nums = new List<Integer>{1, 2, 3, 4, 5, 6};
+Map<Integer, List<Integer>> remainderMap = new Map<Integer, List<Integer>>();
+ 
+for (Integer n : nums) {
+    Integer key = Math.mod(n, 2);
+    if (!remainderMap.containsKey(key)) {
+        remainderMap.put(key, new List<Integer>());
+    }
+    remainderMap.get(key).add(n);
+}
+ 
+System.debug(remainderMap);
+Question 12
+Map<String, Integer> products = new Map<String, Integer>{
+    'Pen' => 10,
+    'Notebook' => 25,
+    'Bag' => 50
+};
+ 
+String highestProduct;
+Integer highestPrice = 0;
+ 
+for (String key : products.keySet()) {
+    if (products.get(key) > highestPrice) {
+        highestPrice = products.get(key);
+        highestProduct = key;
+    }
+}
+ 
+System.debug('Highest: ' + highestProduct + ' => ' + highestPrice);
+Question 13
+Map<String, Integer> stock = new Map<String, Integer>{
+    'Apple' => 50,
+    'Banana' => 0,
+    'Orange' => 25,
+    'Mango' => 0
+};
+ 
+for (String key : new List<String>(stock.keySet())) {
+    if (stock.get(key) == 0) {
+        stock.remove(key);
+    }
+}
+ 
+System.debug('Final stock: ' + stock);
+Question 14
+Map<String, String> countryCapitals = new Map<String, String>{
+    'India' => 'New Delhi',
+    'USA' => 'Washington',
+    'UK' => 'London',
+    'Japan' => 'Tokyo'
+};
+ 
+if (!countryCapitals.containsKey('Germany')) {
+    countryCapitals.put('Germany', 'Berlin');
+}
+ 
+System.debug('Final Map: ' + countryCapitals);
+Question 15
+Set<String> items = new Set<String>{'Pen', 'Book', 'Bag', 'Pen', 'Pencil', 'Bag'};
+ 
+System.debug('Total unique items: ' + items.size());
+ 
+List<String> itemList = new List<String>(items);
+itemList.sort();
+ 
+System.debug('Sorted list: ' + itemList);
