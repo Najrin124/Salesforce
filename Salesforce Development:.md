@@ -398,6 +398,7 @@ create a apex class:--
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-12 17-36-42" src="https://github.com/user-attachments/assets/7ccc0fdc-5426-45ec-b9e0-d46535065bf7" />
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c37536ac-dcf0-44e6-adbe-1d337efd821a" />
 
 
 
