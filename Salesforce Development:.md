@@ -371,4 +371,41 @@ create a apex class:--
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-12 17-12-09" src="https://github.com/user-attachments/assets/77b77186-80c9-4511-8b6b-c4df9af0c064" />
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 17-16-03" src="https://github.com/user-attachments/assets/f09856f3-ae38-4d3d-92cb-0d90918031a5" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 17-17-44" src="https://github.com/user-attachments/assets/ac158ca0-db96-4846-8f6e-ff39abc2810f" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 17-19-42" src="https://github.com/user-attachments/assets/1e4b00d1-a231-409b-b113-c8b80fa07b61" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 17-20-56" src="https://github.com/user-attachments/assets/d7af4543-559e-4f89-a08e-3721627a126d" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 17-23-31" src="https://github.com/user-attachments/assets/172dfcc1-6733-4254-8ed1-b03bcc5e2a13" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 17-24-34" src="https://github.com/user-attachments/assets/01c32b26-8888-4dce-89f1-25d71ba22ca2" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 17-29-44" src="https://github.com/user-attachments/assets/73a19460-5e26-4881-8b7c-b5268b46b94d" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 17-30-43" src="https://github.com/user-attachments/assets/b74760e6-47a2-4a30-a3f1-7242c4404e7b" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 17-31-10" src="https://github.com/user-attachments/assets/17419e7a-b612-4582-af4d-100684191daf" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 17-33-00" src="https://github.com/user-attachments/assets/aa7ccbb0-b9b4-4468-9e1d-1d0da2b887b5" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 17-33-44" src="https://github.com/user-attachments/assets/2014d32c-499c-4e09-b3a7-bfae3f331f98" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 17-35-43" src="https://github.com/user-attachments/assets/b4884ef8-778e-45c7-921c-8c1f20be576d" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-12 17-36-42" src="https://github.com/user-attachments/assets/7ccc0fdc-5426-45ec-b9e0-d46535065bf7" />
+
+
+
+
+
+
+
+
+
+
+
 
