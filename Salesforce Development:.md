@@ -989,3 +989,293 @@ List<String> itemList = new List<String>(items);
 itemList.sort();
  
 System.debug('Sorted list: ' + itemList);
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 09-47-58" src="https://github.com/user-attachments/assets/f29a839c-ebe9-4f9b-8f85-790905e70469" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 09-50-50" src="https://github.com/user-attachments/assets/1b17bbad-82cc-425a-b6ae-b43b60456dd4" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 09-51-25" src="https://github.com/user-attachments/assets/bb0ccbae-c71c-4798-9da1-c5fa3fed5318" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 09-53-01" src="https://github.com/user-attachments/assets/200172c1-0684-471a-b436-4af7dd60117d" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 09-53-26" src="https://github.com/user-attachments/assets/291130ef-e2a2-43cf-8838-756979d68dc1" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 09-55-42" src="https://github.com/user-attachments/assets/c19c5fb8-1cc2-4960-b244-069adff16491" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 09-56-30" src="https://github.com/user-attachments/assets/4d2cbdad-c6c3-4297-ae04-aef2c6155377" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 09-58-31" src="https://github.com/user-attachments/assets/7ad86911-02be-4c81-a0f9-77f71d1ff9ae" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 09-59-59" src="https://github.com/user-attachments/assets/e8a40f78-cc3d-4dda-8a19-833f3a295433" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-03-18" src="https://github.com/user-attachments/assets/ad5c134b-3b11-4ff1-acd2-6a1a516bccea" />
+
+#single line
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-04-37" src="https://github.com/user-attachments/assets/d54b5e09-d680-4883-9d80-2c90621cd450" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-06-10" src="https://github.com/user-attachments/assets/0e62ce92-997f-486a-aad7-5c08401d06cb" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-06-37" src="https://github.com/user-attachments/assets/f597b3c7-4b2b-4c9a-8b1b-20505fdc4437" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-06-59" src="https://github.com/user-attachments/assets/07a294df-33fc-46ba-890a-2946bdeb767e" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-09-12" src="https://github.com/user-attachments/assets/e8029baa-0a8c-4734-96a9-e0aae9902944" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-10-04" src="https://github.com/user-attachments/assets/14f7cbd0-8f83-4958-9372-7cc256c10444" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-11-05" src="https://github.com/user-attachments/assets/1bd320ee-8a36-4d0b-8603-730cf31db76a" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-11-36" src="https://github.com/user-attachments/assets/2a854e6d-0429-44b1-8177-4aa11ec05504" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-12-07" src="https://github.com/user-attachments/assets/e00808e1-309e-49d0-9207-49735dbfd624" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-12-29" src="https://github.com/user-attachments/assets/1b0018ac-4b76-4d05-a1e0-6e4aa904fffc" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-14-06" src="https://github.com/user-attachments/assets/6f9b2caf-0192-4493-8adb-b17336bd142b" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-14-29" src="https://github.com/user-attachments/assets/0bd03267-af57-4c25-bb26-1592b9346e1f" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-15-14" src="https://github.com/user-attachments/assets/f5893f1d-1610-4b88-bef5-ca6349fee5b1" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-15-54" src="https://github.com/user-attachments/assets/8d2ebf92-be4b-40ef-a632-430d87c002de" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-17-08" src="https://github.com/user-attachments/assets/a5665c84-d454-46f2-88db-66285f16a317" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-18-37" src="https://github.com/user-attachments/assets/4244b92f-fd26-4027-a7eb-78f376d394b4" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-19-35" src="https://github.com/user-attachments/assets/50c8c713-688b-475f-9696-b39387708282" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-21-15" src="https://github.com/user-attachments/assets/9025a5b8-bdb0-4bce-8c36-ac031686c01b" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-21-46" src="https://github.com/user-attachments/assets/35d19d86-1179-476d-aad0-11f5268d8fe6" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-24-37" src="https://github.com/user-attachments/assets/5a2024da-0e05-478f-8df5-abad6641030e" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-25-23" src="https://github.com/user-attachments/assets/de270e18-b852-4254-bdfc-22141541d071" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-25-49" src="https://github.com/user-attachments/assets/e1e67db4-7529-42ab-99eb-af61b5edcadc" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-26-36" src="https://github.com/user-attachments/assets/6cc31e4a-dd44-4eaf-abc6-a82c3b9cfc5f" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-28-45" src="https://github.com/user-attachments/assets/ec575396-ecac-4971-b411-60ce73b49358" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-29-53" src="https://github.com/user-attachments/assets/72e96bfb-9b5a-4e6f-977d-ef3637c4a596" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-30-19" src="https://github.com/user-attachments/assets/1f03c87b-840b-4dde-98c8-5bc288978956" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-13 10-33-34" src="https://github.com/user-attachments/assets/4699576e-0225-478d-9628-3ae1fd131a5f" />
+
+
+
+
+
+Challenge - Practice Questions/Assignment : Control Flow Statements
+Create an Integer variable score = 82. Print "Pass" if score >= 40, otherwise print "Fail".
+
+Create an Integer variable age = 17. Print "Eligible for vote" if age >= 18, otherwise print "Not eligible".
+
+Create an Integer variable marks = 88. Print grades based on: >= 90 = "A", >= 75 = "B", >= 50 = "C", else "F".
+
+Create an Integer variable year = 2023. Check if it is a leap year. Print "Leap year" or "Not a leap year".
+
+Create two Integer variables num1 = 15 and num2 = 15. Print which number is larger or print "Numbers are equal".
+
+Create a String variable role = 'Guest'. Use a switch statement to print: "Admin – Full access", "User – Limited access", "Guest – View only", default "Unknown role".
+
+Create a list of integers {4,7,2,9,5}. Print each number multiplied by 2.
+
+Create a list of strings {'Alice', 'Bob', 'Charlie', 'David'}. Print all names that start with the letter 'C'.
+
+Create an Integer variable n = 5. Print the factorial of n using a loop.
+
+Create a Boolean variable isActive = true and an Integer score = 78. Print "Eligible" if isActive is true and score >= 75, else print "Not Eligible".
+
+
+
+
+
+Solution - Practice Questions/Assignment : Control Flow Statements
+Answer - 1
+
+Integer score = 82;
+
+if (score >= 40) {
+
+    System.debug('Pass');
+
+} else {
+
+    System.debug('Fail');
+
+}
+
+
+
+Answer - 2
+
+Integer age = 17;
+
+if (age >= 18) {
+
+    System.debug('Eligible for vote');
+
+} else {
+
+    System.debug('Not eligible');
+
+}
+
+
+
+Answer - 3
+
+Integer marks = 88;
+
+if (marks >= 90) {
+
+    System.debug('A');
+
+} else if (marks >= 75) {
+
+    System.debug('B');
+
+} else if (marks >= 50) {
+
+    System.debug('C');
+
+} else {
+
+    System.debug('F');
+
+}
+
+
+
+Answer - 4
+
+Integer year = 2023;
+
+if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
+
+    System.debug('Leap year');
+
+} else {
+
+    System.debug('Not a leap year');
+
+}
+
+
+
+Answer - 5
+
+Integer num1 = 15;
+
+Integer num2 = 15;
+
+if (num1 > num2) {
+
+    System.debug('num1 is larger');
+
+} else if (num2 > num1) {
+
+    System.debug('num2 is larger');
+
+} else {
+
+    System.debug('Numbers are equal');
+
+}
+
+
+
+Answer - 6
+
+String role = 'Guest';
+
+switch on role {
+
+    when 'Admin' {
+
+        System.debug('Admin – Full access');
+
+    }
+
+    when 'User' {
+
+        System.debug('User – Limited access');
+
+    }
+
+    when 'Guest' {
+
+        System.debug('Guest – View only');
+
+    }
+
+    when else {
+
+        System.debug('Unknown role');
+
+    }
+
+}
+
+
+
+Answer - 7
+
+List<Integer> numbers = new List<Integer>{4,7,2,9,5};
+
+for (Integer n : numbers) {
+
+    System.debug(n * 2);
+
+}
+
+
+
+Answer - 8
+
+List<String> names = new List<String>{'Alice', 'Bob', 'Charlie', 'David'};
+
+for (String name : names) {
+
+    if (name.startsWith('C')) {
+
+        System.debug(name);
+
+    }
+
+}
+
+
+
+Answer - 9
+
+Integer n = 5;
+
+Integer factorial = 1;
+
+for (Integer i = 1; i <= n; i++) {
+
+    factorial *= i;
+
+}
+
+System.debug('Factorial of ' + n + ' is ' + factorial);
+
+
+
+Answer - 10
+
+Boolean isActive = true;
+
+Integer score2 = 78;
+
+if (isActive && score2 >= 75) {
+
+    System.debug('Eligible');
+
+} else {
+
+    System.debug('Not Eligible');
+
+}
