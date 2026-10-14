@@ -1293,8 +1293,12 @@ if (isActive && score2 >= 75) {
 <img width="1366" height="768" alt="Screenshot from 2026-10-14 11-10-35" src="https://github.com/user-attachments/assets/5aeeb222-549c-47da-8fae-2e8ffb9159e3" />
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 11-19-00" src="https://github.com/user-attachments/assets/5e44a033-fdd4-4a35-820c-e2c1408f5a4e" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 11-46-47" src="https://github.com/user-attachments/assets/175cb5f5-fb8a-4759-832a-104c470ecd5d" />
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 11-47-12" src="https://github.com/user-attachments/assets/cbcd2178-2509-4f0a-a277-c460ded517d8" />
 
 
 
