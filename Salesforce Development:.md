@@ -1338,6 +1338,76 @@ if (isActive && score2 >= 75) {
 <img width="1366" height="768" alt="Screenshot from 2026-10-14 13-44-26" src="https://github.com/user-attachments/assets/74801967-4033-4e71-bb11-20b07ea306b8" />
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-28-30" src="https://github.com/user-attachments/assets/96261cda-aa2c-4001-ae81-45981c767ee4" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-30-05" src="https://github.com/user-attachments/assets/1adcf6e9-b77e-43a3-86d4-58fdd64c02b3" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-30-59" src="https://github.com/user-attachments/assets/29b09ddc-ec79-447e-b53a-3599f19a3e33" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-33-23" src="https://github.com/user-attachments/assets/5ad4fb28-024a-449b-bcec-159fc53fc176" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-35-12" src="https://github.com/user-attachments/assets/909bffaf-65c4-480f-98fc-19db62681a03" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-36-49" src="https://github.com/user-attachments/assets/c4d00b35-324e-4e32-b9b2-0ccfa4164fb1" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-37-23" src="https://github.com/user-attachments/assets/2aa61044-1ace-42db-8f48-92b0d4ef2f3f" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-39-23" src="https://github.com/user-attachments/assets/5a67b17c-a147-449c-9581-6ed132d9a542" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-40-10" src="https://github.com/user-attachments/assets/7a470fac-a27a-49fe-8c02-959c2880b3ca" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-42-55" src="https://github.com/user-attachments/assets/f6f2ee4e-fec7-4612-86c5-018426e488f0" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-45-08" src="https://github.com/user-attachments/assets/0a1cb289-95a1-40ce-9afb-91c85ad3bd0c" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-53-32" src="https://github.com/user-attachments/assets/fa294545-8abe-45e3-8a7e-a6e2bdc0150a" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-54-33" src="https://github.com/user-attachments/assets/1d1884ef-b45d-40de-b652-e60f480082fb" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-55-04" src="https://github.com/user-attachments/assets/678a46e3-c686-461c-ad61-efcde10e582d" />
+
+
+
+
+
+Challenge - Practice Questions/Assignment : Classes,Methods and Objects
+Create a class Car with a method startEngine that prints "Engine Started". Create an object of Car in the Anonymous Window and call the method.
+
+Create a class Calculator with two methods:
+
+add that takes two integers and returns their sum
+
+multiply that takes two integers and returns their product
+Create an object and call both methods, printing the results.
+
+Create a class Student with variables name and age. Add a method printDetails that prints these values. Create an object, assign values, and call the method.
+
+Create a class Book with a constructor that takes title and author as parameters and stores them in variables. Print them using a method printBook.
+
+Create a class MathOperations with a method square that takes an integer and returns its square. Call this method using an object and print the result.
+
+Create two classes:
+
+ClassA with a method greet that returns "Hello from ClassA"
+
+ClassB with a method displayMessage that creates an object of ClassA and calls greet.
+Run displayMessage and print the output.
+
+Create a class BankAccount with variables accountNumber and balance. Add a method deposit that increases the balance and a method printBalance that shows the current balance. Create an object and test both methods.
+
+Create a class Order with a method calculateTotal that takes price and quantity and returns total amount. Call this method from another class OrderService.
+
+Create a class Shape with a method area that takes length and breadth and returns area. Create an object and print the area of a rectangle with length = 10 and breadth = 5.
+
+Create a class MessagePrinter with a static method printHello. Call this method directly without creating an object.
 
 
 
@@ -1348,7 +1418,1098 @@ if (isActive && score2 >= 75) {
 
 
 
+Solution - Practice Questions/Assignment : Classes,Methods and Objects
+Answer 1
+Class code:
+
+public class Car {
+    public void startEngine() {
+        System.debug('Engine Started');
+    }
+}
+To run in Anonymous Window:
+
+Car myCar = new Car();
+myCar.startEngine();
+Answer 2
+Class code:
+
+public class Calculator {
+    public Integer add(Integer a, Integer b) {
+        return a + b;
+    }
+ 
+    public Integer multiply(Integer a, Integer b) {
+        return a * b;
+    }
+}
+To run in Anonymous Window:
+
+Calculator calc = new Calculator();
+System.debug('Sum: ' + calc.add(5, 3));
+System.debug('Product: ' + calc.multiply(5, 3));
+Answer 3
+Class code:
+
+public class Student {
+    public String name;
+    public Integer age;
+ 
+    public void printDetails() {
+        System.debug('Name: ' + name + ', Age: ' + age);
+    }
+}
+To run in Anonymous Window:
+
+Student s = new Student();
+s.name = 'Mohit';
+s.age = 25;
+s.printDetails();
+Answer 4
+Class code:
+
+public class Book {
+    public String title;
+    public String author;
+ 
+    public Book(String title, String author) {
+        this.title = title;
+        this.author = author;
+    }
+ 
+    public void printBook() {
+        System.debug('Title: ' + title + ', Author: ' + author);
+    }
+}
+To run in Anonymous Window:
+
+Book b = new Book('The Alchemist', 'Paulo Coelho');
+b.printBook();
+Answer 5
+Class code:
+
+public class MathOperations {
+    public Integer square(Integer n) {
+        return n * n;
+    }
+}
+To run in Anonymous Window:
+
+MathOperations math = new MathOperations();
+System.debug('Square: ' + math.square(7));
+Answer 6
+
+
+Class code:
+
+public class ClassA {
+    public String greet() {
+        return 'Hello from ClassA';
+    }
+}
+ 
+public class ClassB {
+    public void displayMessage() {
+        ClassA obj = new ClassA();
+        System.debug(obj.greet());
+    }
+}
+To run in Anonymous Window:
+
+ClassB b = new ClassB();
+b.displayMessage();
+Answer 7
+Class code:
+
+public class BankAccount {
+    public String accountNumber;
+    public Decimal balance;
+ 
+    public void deposit(Decimal amount) {
+        balance += amount;
+    }
+ 
+    public void printBalance() {
+        System.debug('Account: ' + accountNumber + ', Balance: ' + balance);
+    }
+}
+To run in Anonymous Window:
+
+BankAccount acc = new BankAccount();
+acc.accountNumber = 'ACC123';
+acc.balance = 1000;
+acc.deposit(500);
+acc.printBalance();
+Answer 8
+
+
+Class code:
+
+public class Order {
+    public Decimal calculateTotal(Decimal price, Integer quantity) {
+        return price * quantity;
+    }
+}
+ 
+public class OrderService {
+    public void processOrder() {
+        Order o = new Order();
+        Decimal total = o.calculateTotal(250, 3);
+        System.debug('Total Amount: ' + total);
+    }
+}
+To run in Anonymous Window:
+
+OrderService service = new OrderService();
+service.processOrder();
+Answer 9
+Class code:
+
+public class Shape {
+    public Decimal area(Decimal length, Decimal breadth) {
+        return length * breadth;
+    }
+}
+To run in Anonymous Window:
+
+Shape rect = new Shape();
+System.debug('Area: ' + rect.area(10, 5));
+Answer 10
+Class code:
+
+public class MessagePrinter {
+    public static void printHello() {
+        System.debug('Hello');
+    }
+}
+To run in Anonymous Window:
+
+MessagePrinter.printHello();
+ 
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-56-56" src="https://github.com/user-attachments/assets/5451c4d5-39ce-4e75-af31-b94f01912238" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-57-43" src="https://github.com/user-attachments/assets/9b6e9e64-e0fd-4a97-a795-113a3b46a0ed" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 16-58-09" src="https://github.com/user-attachments/assets/de8c0c8b-1b52-4bfb-a639-a9d1844a4a0b" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-01-17" src="https://github.com/user-attachments/assets/cb2ff870-4b65-485b-bfe2-6149904ce782" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-02-22" src="https://github.com/user-attachments/assets/e0fb3047-e5e1-427a-91d6-97339733ec76" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-04-06" src="https://github.com/user-attachments/assets/1a2d1d1b-c84d-4760-a26a-2fff67c0146b" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-05-52" src="https://github.com/user-attachments/assets/7de5dd2b-41ff-47c7-b754-448d2550ddc2" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-07-12" src="https://github.com/user-attachments/assets/08fd9c3c-b3ce-4bd8-8047-4dac9c0a7c28" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-08-31" src="https://github.com/user-attachments/assets/c470bc9d-0e75-43f5-9897-7f184d228057" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-09-14" src="https://github.com/user-attachments/assets/a3905195-b10f-4e67-b68c-a9c999a640a0" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-09-44" src="https://github.com/user-attachments/assets/db45bd53-74d7-4588-8e23-b83b32ff3270" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-11-30" src="https://github.com/user-attachments/assets/0a2cbe42-c99e-4885-8f09-11255eb21274" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-12-20" src="https://github.com/user-attachments/assets/d9ba8901-3136-4713-9b9b-1d0bd3604b26" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-13-07" src="https://github.com/user-attachments/assets/7edf42dc-a10c-481b-ada5-4011f85dfbc6" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-13-38" src="https://github.com/user-attachments/assets/722c274b-f7fb-49aa-a59d-5b6543e000ba" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-14-04" src="https://github.com/user-attachments/assets/d3c47fe6-8d9d-4507-bf51-72a4ba1788bd" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ca4a5aa3-7532-4a55-9698-9fa76dae69a8" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-15-11" src="https://github.com/user-attachments/assets/c16c4ba4-dde6-42f6-b657-e2a97ff11261" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-43-07" src="https://github.com/user-attachments/assets/9a4d26dc-a155-41b0-8333-0224ff357e65" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-44-01" src="https://github.com/user-attachments/assets/eb816a3f-bf97-4a94-b100-f7c5ee777bf5" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-45-03" src="https://github.com/user-attachments/assets/13f6bdb8-4a38-48a6-9a00-73c1ebefc395" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-45-35" src="https://github.com/user-attachments/assets/82aab5f6-7bae-470f-87ba-0712b9c6143d" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-46-27" src="https://github.com/user-attachments/assets/cb478af6-8803-4fcb-84cd-2ef85408c3c8" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 17-46-50" src="https://github.com/user-attachments/assets/67952537-2432-4f2d-9092-6c07d665a7df" />
 
 
 
 
+
+
+
+
+Challenge - Practice Questions/Assignment : Fundamental Apex Concepts
+Question 1:
+
+Create an Apex class called BankAccount that demonstrates constructor overloading.
+
+The class should have: Instance variables: accountNumber (String), balance (Decimal), and accountType (String).
+
+A default constructor that sets balance to 0 and accountType to 'Savings'.
+
+An overloaded constructor that accepts accountNumber and balance.
+
+An overloaded constructor that accepts all three parameters.
+
+A method deposit(Decimal amount) that adds to the balance.
+
+A method getAccountInfo() that returns a formatted string with account details.
+
+
+
+Question 2:
+
+Create a class Calculator that demonstrates different types of methods:
+
+A public static method add(Integer a, Integer b) that returns the sum
+
+A private instance method isEven(Integer num) that returns a Boolean
+
+A public instance method getEvenNumbers(List<Integer> numbers) that uses the private method and returns a list of even numbers
+
+A void method printResult(Integer result) that displays the result.
+
+
+
+
+
+Question 3:
+
+Create a class called Book that demonstrates basic constructor overloading:
+
+Instance variables: title (String), author (String), and price (Decimal)
+
+A constructor that accepts only title (set author to 'Unknown' and price to 0)
+
+A constructor that accepts title and author (set price to 0)
+
+A constructor that accepts all three parameters
+
+A method displayBookInfo() that prints the book details
+
+A method applyDiscount(Decimal percentage) that reduces the price
+
+
+
+Question 4:
+
+Create a Student class demonstrating simple constructor overloading:
+
+Instance variables: name (String), rollNumber (Integer), and marks (Integer)
+
+Constructor 1: accepts only name (set rollNumber to 0, marks to 0)
+
+Constructor 2: accepts name and rollNumber (set marks to 0)
+
+Constructor 3: accepts all three parameters
+
+Method hasPassed() that returns true if marks >= 40
+
+Method getGrade() that returns grade based on marks (A: 90+, B: 70+, C: 50+, D: 40+, F: below 40)
+
+
+
+Question 5:
+
+Create a ContactWrapper class for displaying contacts with selection:
+
+Properties: contactName (String), email (String), phone (String), and isChecked (Boolean)
+
+Constructor accepting name, email, and phone
+
+Method selectContact() that sets isChecked to true
+
+Method unselectContact() that sets isChecked to false
+
+Create a list of 4 contacts and demonstrate selecting specific ones.
+
+
+
+
+
+
+Solution - Practice Questions/Assignment : Fundamental Apex Concepts
+Answer 1 -
+
+public class BankAccount {
+
+// Instance variables
+
+private String accountNumber;
+
+private Decimal balance;
+
+private String accountType;
+
+
+
+// Default constructor
+
+public BankAccount() {
+
+this.balance = 0;
+
+this.accountType = 'Savings';
+
+System.debug('Default constructor called');
+
+}
+
+
+
+// Overloaded constructor with 2 parameters
+
+public BankAccount(String accountNumber, Decimal balance) {
+
+this.accountNumber = accountNumber;
+
+this.balance = balance;
+
+this.accountType = 'Savings'; // default type
+
+System.debug('Two-parameter constructor called');
+
+}
+
+
+
+// Overloaded constructor with 3 parameters
+
+public BankAccount(String accountNumber, Decimal balance, String accountType) {
+
+this.accountNumber = accountNumber;
+
+this.balance = balance;
+
+this.accountType = accountType;
+
+System.debug('Three-parameter constructor called');
+
+}
+
+
+
+// Method to deposit money
+
+public void deposit(Decimal amount) {
+
+if (amount > 0) {
+
+this.balance += amount;
+
+System.debug('Deposited: ' + amount + ', New Balance: ' + this.balance);
+
+} else {
+
+System.debug('Invalid deposit amount');
+
+}
+
+}
+
+
+
+// Method to get account information
+
+public String getAccountInfo() {
+
+return 'Account Number: ' + this.accountNumber +
+
+', Balance: $' + this.balance +
+
+', Type: ' + this.accountType;
+
+}
+
+}
+
+
+
+// Usage Example:
+
+BankAccount acc1 = new BankAccount();
+
+BankAccount acc2 = new BankAccount('ACC-001', 1000);
+
+BankAccount acc3 = new BankAccount('ACC-002', 5000, 'Checking');
+
+
+
+acc2.deposit(500);
+
+System.debug(acc2.getAccountInfo());
+
+// Output: Account Number: ACC-001, Balance: $1500, Type: Savings
+
+
+
+Answer 2 -
+
+
+
+public class Calculator {
+
+
+
+// Public static method - can be called without instantiation
+
+public static Integer add(Integer a, Integer b) {
+
+return a + b;
+
+}
+
+
+
+// Private instance method - only accessible within the class
+
+private Boolean isEven(Integer num) {
+
+return Math.mod(num, 2) == 0;
+
+}
+
+
+
+// Public instance method that uses private method
+
+public List<Integer> getEvenNumbers(List<Integer> numbers) {
+
+List<Integer> evenNumbers = new List<Integer>();
+
+
+
+for (Integer num : numbers) {
+
+if (isEven(num)) {
+
+evenNumbers.add(num);
+
+}
+
+}
+
+
+
+return evenNumbers;
+
+}
+
+
+
+// Void method - returns nothing
+
+public void printResult(Integer result) {
+
+System.debug('The result is: ' + result);
+
+}
+
+
+
+// Static method with multiple parameters
+
+public static Decimal calculateAverage(List<Integer> numbers) {
+
+if (numbers.isEmpty()) {
+
+return 0;
+
+}
+
+
+
+Integer sum = 0;
+
+for (Integer num : numbers) {
+
+sum += num;
+
+}
+
+
+
+return Decimal.valueOf(sum) / numbers.size();
+
+}
+
+}
+
+
+
+// Usage Example:
+
+
+
+// Static method - called directly on the class
+
+Integer sum = Calculator.add(5, 10);
+
+System.debug('Sum: ' + sum); // Output: Sum: 15
+
+
+
+// Instance methods - require object instantiation
+
+Calculator calc = new Calculator();
+
+
+
+List<Integer> numbers = new List<Integer>{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+
+List<Integer> evenNums = calc.getEvenNumbers(numbers);
+
+System.debug('Even numbers: ' + evenNums);
+
+// Output: Even numbers: (2, 4, 6, 8, 10)
+
+
+
+calc.printResult(sum); // Output: The result is: 15
+
+
+
+// Another static method
+
+Decimal avg = Calculator.calculateAverage(numbers);
+
+System.debug('Average: ' + avg); // Output: Average: 5.5
+
+
+
+Answer - 3
+
+
+
+public class Book {
+
+// Instance variables
+
+public String title;
+
+public String author;
+
+public Decimal price;
+
+
+
+// Constructor with 1 parameter
+
+public Book(String title) {
+
+this.title = title;
+
+this.author = 'Unknown';
+
+this.price = 0;
+
+}
+
+
+
+// Constructor with 2 parameters
+
+public Book(String title, String author) {
+
+this.title = title;
+
+this.author = author;
+
+this.price = 0;
+
+}
+
+
+
+// Constructor with 3 parameters
+
+public Book(String title, String author, Decimal price) {
+
+this.title = title;
+
+this.author = author;
+
+this.price = price;
+
+}
+
+
+
+// Method to display book information
+
+public void displayBookInfo() {
+
+System.debug('Title: ' + this.title);
+
+System.debug('Author: ' + this.author);
+
+System.debug('Price: $' + this.price);
+
+System.debug('-------------------');
+
+}
+
+
+
+// Method to apply discount
+
+public void applyDiscount(Decimal percentage) {
+
+if (percentage > 0 && percentage <= 100) {
+
+this.price = this.price - (this.price * percentage / 100);
+
+System.debug('Discount applied! New price: $' + this.price);
+
+} else {
+
+System.debug('Invalid discount percentage');
+
+}
+
+}
+
+}
+
+
+
+// Usage Example:
+
+Book book1 = new Book('The Great Gatsby');
+
+book1.displayBookInfo();
+
+// Output:
+
+// Title: The Great Gatsby
+
+// Author: Unknown
+
+// Price: $0
+
+
+
+Book book2 = new Book('1984', 'George Orwell');
+
+book2.displayBookInfo();
+
+// Output:
+
+// Title: 1984
+
+// Author: George Orwell
+
+// Price: $0
+
+
+
+Book book3 = new Book('To Kill a Mockingbird', 'Harper Lee', 15.99);
+
+book3.displayBookInfo();
+
+book3.applyDiscount(10);
+
+// Output:
+
+// Title: To Kill a Mockingbird
+
+// Author: Harper Lee
+
+// Price: $15.99
+
+// Discount applied! New price: $14.391
+
+
+
+Answer - 4
+
+
+
+public class Student {
+
+// Instance variables
+
+public String name;
+
+public Integer rollNumber;
+
+public Integer marks;
+
+
+
+// Constructor 1 - only name
+
+public Student(String name) {
+
+this.name = name;
+
+this.rollNumber = 0;
+
+this.marks = 0;
+
+System.debug('Student created with name only');
+
+}
+
+
+
+// Constructor 2 - name and roll number
+
+public Student(String name, Integer rollNumber) {
+
+this.name = name;
+
+this.rollNumber = rollNumber;
+
+this.marks = 0;
+
+System.debug('Student created with name and roll number');
+
+}
+
+
+
+// Constructor 3 - all parameters
+
+public Student(String name, Integer rollNumber, Integer marks) {
+
+this.name = name;
+
+this.rollNumber = rollNumber;
+
+this.marks = marks;
+
+System.debug('Student created with all details');
+
+}
+
+
+
+// Method to check if student passed
+
+public Boolean hasPassed() {
+
+if (this.marks >= 40) {
+
+System.debug(this.name + ' has PASSED');
+
+return true;
+
+} else {
+
+System.debug(this.name + ' has FAILED');
+
+return false;
+
+}
+
+}
+
+
+
+// Method to get grade
+
+public String getGrade() {
+
+String grade;
+
+if (this.marks >= 90) {
+
+grade = 'A';
+
+} else if (this.marks >= 70) {
+
+grade = 'B';
+
+} else if (this.marks >= 50) {
+
+grade = 'C';
+
+} else if (this.marks >= 40) {
+
+grade = 'D';
+
+} else {
+
+grade = 'F';
+
+}
+
+
+
+System.debug(this.name + ' got grade: ' + grade);
+
+return grade;
+
+}
+
+
+
+// Method to display student info
+
+public void showStudentInfo() {
+
+System.debug('Name: ' + this.name);
+
+System.debug('Roll Number: ' + this.rollNumber);
+
+System.debug('Marks: ' + this.marks);
+
+System.debug('Grade: ' + getGrade());
+
+System.debug('Status: ' + (hasPassed() ? 'PASS' : 'FAIL'));
+
+System.debug('-------------------');
+
+}
+
+}
+
+
+
+// Usage Example:
+
+
+
+// Using different constructors
+
+Student s1 = new Student('Alice');
+
+// Output: Student created with name only
+
+
+
+Student s2 = new Student('Bob', 101);
+
+// Output: Student created with name and roll number
+
+
+
+Student s3 = new Student('Charlie', 102, 85);
+
+// Output: Student created with all details
+
+
+
+// Set marks for s1 and s2
+
+s1.marks = 55;
+
+s2.marks = 92;
+
+
+
+// Check results
+
+s1.showStudentInfo();
+
+// Name: Alice, Roll Number: 0, Marks: 55, Grade: C, Status: PASS
+
+
+
+s2.showStudentInfo();
+
+// Name: Bob, Roll Number: 101, Marks: 92, Grade: A, Status: PASS
+
+
+
+s3.showStudentInfo();
+
+// Name: Charlie, Roll Number: 102, Marks: 85, Grade: B, Status: PASS
+
+
+
+// Create a failing student
+
+Student s4 = new Student('David', 103, 35);
+
+s4.hasPassed();
+
+// Output: David has FAILED
+
+s4.getGrade();
+
+// Output: David got grade: F
+
+
+
+Answer-5
+
+
+
+public class ContactWrapper {
+
+// Properties
+
+public String contactName { get; set; }
+
+public String email { get; set; }
+
+public String phone { get; set; }
+
+public Boolean isChecked { get; set; }
+
+
+
+// Constructor
+
+public ContactWrapper(String contactName, String email, String phone) {
+
+this.contactName = contactName;
+
+this.email = email;
+
+this.phone = phone;
+
+this.isChecked = false; // Not selected by default
+
+}
+
+
+
+// Method to select contact
+
+public void selectContact() {
+
+this.isChecked = true;
+
+System.debug(this.contactName + ' selected');
+
+}
+
+
+
+// Method to unselect contact
+
+public void unselectContact() {
+
+this.isChecked = false;
+
+System.debug(this.contactName + ' unselected');
+
+}
+
+
+
+// Method to display contact info
+
+public void displayContact() {
+
+System.debug('Name: ' + this.contactName);
+
+System.debug('Email: ' + this.email);
+
+System.debug('Phone: ' + this.phone);
+
+System.debug('Selected: ' + (this.isChecked ? 'YES' : 'NO'));
+
+System.debug('-------------------');
+
+}
+
+}
+
+
+
+// Usage Example:
+
+List<ContactWrapper> contactList = new List<ContactWrapper>();
+
+
+
+// Create contacts
+
+contactList.add(new ContactWrapper('John Doe', 'john@email.com', '123-456-7890'));
+
+contactList.add(new ContactWrapper('Jane Smith', 'jane@email.com', '234-567-8901'));
+
+contactList.add(new ContactWrapper('Mike Wilson', 'mike@email.com', '345-678-9012'));
+
+contactList.add(new ContactWrapper('Sarah Johnson', 'sarah@email.com', '456-789-0123'));
+
+
+
+// Display all contacts
+
+System.debug('All Contacts:');
+
+for (ContactWrapper contact : contactList) {
+
+contact.displayContact();
+
+}
+
+
+
+// Select specific contacts
+
+contactList[0].selectContact();
+
+// Output: John Doe selected
+
+
+
+contactList[2].selectContact();
+
+// Output: Mike Wilson selected
+
+
+
+// Display only selected contacts
+
+System.debug('Selected Contacts:');
+
+for (ContactWrapper contact : contactList) {
+
+if (contact.isChecked) {
+
+System.debug(contact.contactName + ' - ' + contact.email);
+
+}
+
+}
+
+// Output:
+
+// John Doe - john@email.com
+
+// Mike Wilson - mike@email.com
+
+
+
+// Unselect a contact
+
+contactList[0].unselectContact();
+
+// Output: John Doe unselected
+
+
+
+// Count selected contacts
+
+Integer selectedCount = 0;
+
+for (ContactWrapper contact : contactList) {
+
+if (contact.isChecked) {
+
+selectedCount++;
+
+}
+
+}
+
+System.debug('Total selected contacts: ' + selectedCount);
+
+// Output: Total selected contacts: 1
+
+
+
+
+
+Exit fullscreen
