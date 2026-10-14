@@ -1301,6 +1301,44 @@ if (isActive && score2 >= 75) {
 <img width="1366" height="768" alt="Screenshot from 2026-10-14 11-47-12" src="https://github.com/user-attachments/assets/cbcd2178-2509-4f0a-a277-c460ded517d8" />
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 12-00-49" src="https://github.com/user-attachments/assets/6571ead3-fa0a-4cf1-b6ce-460a39c55ed2" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 12-03-04" src="https://github.com/user-attachments/assets/331b90df-e6fd-421c-92a0-421edaf22b17" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 12-04-14" src="https://github.com/user-attachments/assets/aa7bb010-c901-4138-b62c-15087144fa57" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 12-06-44" src="https://github.com/user-attachments/assets/8d1bcbd5-539d-4e49-b398-b610319ad620" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 12-07-17" src="https://github.com/user-attachments/assets/5cb6c28a-af7f-47f9-a49e-2d42e8b28928" />
+
+
+
+#Apex Method 
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 13-19-27" src="https://github.com/user-attachments/assets/2d069112-7433-493f-8409-f79a4764c25f" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 13-20-13" src="https://github.com/user-attachments/assets/288a95b2-ee8a-4fba-805c-13d4c22d89a1" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 13-20-55" src="https://github.com/user-attachments/assets/f46e959a-a3a1-4559-b3b3-247f4938e0c9" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 13-36-42" src="https://github.com/user-attachments/assets/85e21f2c-a15b-4b84-afea-82d764aba673" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 13-38-01" src="https://github.com/user-attachments/assets/6a734df3-4944-4b8e-bc01-44be09320304" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 13-37-23" src="https://github.com/user-attachments/assets/04354f26-adb5-4497-84ce-ac2ee938f858" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 13-40-08" src="https://github.com/user-attachments/assets/75fe1fa1-c4fd-4a23-b4bc-73f4724ca184" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 13-40-54" src="https://github.com/user-attachments/assets/21bf5b6d-c9bf-497c-bc28-8278d9386345" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 13-41-25" src="https://github.com/user-attachments/assets/158c4c65-6146-416c-862d-2e921a80bdf4" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 13-43-00" src="https://github.com/user-attachments/assets/8b3bd09b-2c5a-46ec-b606-f5263413b906" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 13-43-27" src="https://github.com/user-attachments/assets/c5ae46d6-6dec-415c-ace6-b081648968fb" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 13-44-26" src="https://github.com/user-attachments/assets/74801967-4033-4e71-bb11-20b07ea306b8" />
+
+
+
 
 
 
