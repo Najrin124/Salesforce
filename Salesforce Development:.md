@@ -1279,3 +1279,34 @@ if (isActive && score2 >= 75) {
     System.debug('Not Eligible');
 
 }
+
+
+
+
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 11-06-59" src="https://github.com/user-attachments/assets/7b51a50f-9066-4c5b-9096-2c27efa513cb" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-14 11-10-35" src="https://github.com/user-attachments/assets/5aeeb222-549c-47da-8fae-2e8ffb9159e3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
