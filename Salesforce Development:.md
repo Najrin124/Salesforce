@@ -2513,3 +2513,34 @@ System.debug('Total selected contacts: ' + selectedCount);
 
 
 Exit fullscreen
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-24 11-00-14" src="https://github.com/user-attachments/assets/9939ed63-a987-48e3-8160-51aabc15d710" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-24 11-01-47" src="https://github.com/user-attachments/assets/62e6719d-389e-4f44-8263-17434e01fe79" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-24 11-02-46" src="https://github.com/user-attachments/assets/aa5cfcae-2c41-4f60-9185-da4c3523a2b4" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-24 11-14-25" src="https://github.com/user-attachments/assets/0511892d-d8ca-475d-9cf4-518f5d6fa9b4" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-24 11-16-59" src="https://github.com/user-attachments/assets/3f4c0cbb-230f-4e0f-bd45-fa81e8cd8a06" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-24 11-17-55" src="https://github.com/user-attachments/assets/d18c203e-9aad-440c-b3da-dd281f458891" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-24 11-32-39" src="https://github.com/user-attachments/assets/6684db74-d16d-405e-b659-225325e98dc8" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-24 11-33-27" src="https://github.com/user-attachments/assets/1899b66a-3396-4fa0-8b95-e996f8ecda5b" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-24 11-33-54" src="https://github.com/user-attachments/assets/c093a0d9-1104-45d7-b338-d1c0b61f8725" />
