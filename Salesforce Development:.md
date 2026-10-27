@@ -2982,6 +2982,870 @@ FIND {Agreement} IN ALL FIELDS RETURNING
 
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-44-07" src="https://github.com/user-attachments/assets/b9fb9eea-7342-49b5-a6c2-bb7bc0542fd5" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-44-44" src="https://github.com/user-attachments/assets/437d9cb9-7406-4070-adb1-958688f57836" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-45-21" src="https://github.com/user-attachments/assets/20360bd1-acd8-4faa-b90f-fd670ecfd0c2" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-45-50" src="https://github.com/user-attachments/assets/a3b28336-3a0a-42e7-a13e-a3a6a300007e" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-46-17" src="https://github.com/user-attachments/assets/06909c9d-190d-4b0b-b114-3b3edb94d3ff" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-47-03" src="https://github.com/user-attachments/assets/570a4295-9d0d-46bb-bd67-6cee5d0fa55d" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-47-35" src="https://github.com/user-attachments/assets/71bc1b15-3fd3-4206-8139-eafa3cb580e7" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-48-11" src="https://github.com/user-attachments/assets/3a63f5c6-f051-40c7-a8c9-5b5cbc650b02" />
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-50-05" src="https://github.com/user-attachments/assets/a5789e89-5bc9-4aeb-9fab-60f2a42722d8" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-50-37" src="https://github.com/user-attachments/assets/e0a0e904-c7fa-4720-aab0-d71343d04e49" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-51-19" src="https://github.com/user-attachments/assets/4f291d9c-a2fd-4a80-9dab-20fdac5415e1" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-51-50" src="https://github.com/user-attachments/assets/59f456d9-7931-4fac-8ca2-3285b74bdebd" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-52-31" src="https://github.com/user-attachments/assets/b561382c-f825-4709-ae1d-7a707dc6f830" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-53-42" src="https://github.com/user-attachments/assets/0a0ef967-80ea-4c20-9cd2-c0089fbe73c2" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-54-08" src="https://github.com/user-attachments/assets/7f45f7d8-4579-410c-ab75-363df15a4bb3" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-55-10" src="https://github.com/user-attachments/assets/067c5d38-a8bf-4c09-a50d-4cebbfcedcf3" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-56-29" src="https://github.com/user-attachments/assets/f1192baa-7b84-4962-a3b6-f22ac64b9e65" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-56-55" src="https://github.com/user-attachments/assets/69e931a7-874d-4046-9e63-c202c895ebce" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-57-18" src="https://github.com/user-attachments/assets/5bbba486-9507-4356-94fa-8aa988e5fdb2" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-58-16" src="https://github.com/user-attachments/assets/b75af314-c1e7-4d4c-8682-145ee1850201" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-58-44" src="https://github.com/user-attachments/assets/b4f83184-d42e-471b-a2be-2a6b70bd2e24" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-59-33" src="https://github.com/user-attachments/assets/32630a21-e333-460f-8f6e-44206df83c6f" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-00-16" src="https://github.com/user-attachments/assets/a7a82822-f77e-4c76-8d32-6d8c132ff8df" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-00-50" src="https://github.com/user-attachments/assets/316e2b4d-b10f-449d-92d9-1c60bffea85e" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-01-34" src="https://github.com/user-attachments/assets/5318ff26-f88d-4a6a-9437-2c135b89f621" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-02-12" src="https://github.com/user-attachments/assets/c3a85e7b-2e62-48b6-9f55-d9dface937fc" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-03-13" src="https://github.com/user-attachments/assets/720b94f2-55db-4eaa-950e-6aa3c5758c6e" />
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-03-43" src="https://github.com/user-attachments/assets/9443ed5c-e4f0-4f5f-b2a0-f90c60dff4c7" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-04-12" src="https://github.com/user-attachments/assets/1a205e8f-56c5-4850-84fb-9df462a8729e" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-04-59" src="https://github.com/user-attachments/assets/ff486c4f-2cd0-4fac-9fa9-ef60a860d088" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-05-21" src="https://github.com/user-attachments/assets/4271166d-6ea8-422e-b8fa-a74a29618d24" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-06-06" src="https://github.com/user-attachments/assets/052276f7-d496-46eb-9ba9-ffe672f23071" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-06-43" src="https://github.com/user-attachments/assets/d1ab8f79-5ccc-451b-987a-3f5fd8c98c31" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-08-52" src="https://github.com/user-attachments/assets/95177c95-10b4-4185-8207-95f602f81d36" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-09-16" src="https://github.com/user-attachments/assets/e35045a5-17e4-4ee0-924b-fbdfec276c2e" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-09-37" src="https://github.com/user-attachments/assets/b4e106fd-2a59-42f3-8208-3e88481d329d" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-10-15" src="https://github.com/user-attachments/assets/01def069-b0fc-4516-b5ac-121dad137c3e" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-10-40" src="https://github.com/user-attachments/assets/9e40e620-67a0-48e5-8b64-adb187e03569" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-11-19" src="https://github.com/user-attachments/assets/17caa081-d3c8-4593-9802-4de0d19b8832" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-12-38" src="https://github.com/user-attachments/assets/33bf5a3d-52ac-4d4e-9037-47e7014145c9" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-13-01" src="https://github.com/user-attachments/assets/7b1a21d6-069c-45d9-8c32-a91b4dcc4476" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-13-45" src="https://github.com/user-attachments/assets/206ddc02-abf2-4a73-8179-058fef7de9e2" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-14-08" src="https://github.com/user-attachments/assets/7b8c360e-5825-4e96-ab22-dc3ca00697db" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-14-29" src="https://github.com/user-attachments/assets/0ea007ba-d8c8-4056-be37-866b0c2d8746" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-15-08" src="https://github.com/user-attachments/assets/b1bfceda-45f9-4c95-8ca7-e1691a5d86ab" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-17-15" src="https://github.com/user-attachments/assets/e9dc73a9-750a-4e72-bd5b-7d661b03c921" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-17-46" src="https://github.com/user-attachments/assets/59f91387-70d2-40da-a714-3e2f3aa625a5" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-18-07" src="https://github.com/user-attachments/assets/a749d912-fb54-4e60-b8b1-906b32f6c5c1" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-18-49" src="https://github.com/user-attachments/assets/0408987c-71f9-4012-8411-22bf8321bee3" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-19-17" src="https://github.com/user-attachments/assets/0d550383-98fe-46c6-8dae-f416fb1098fe" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 17-19-44" src="https://github.com/user-attachments/assets/f741beb7-f5ed-439e-90dd-f11da3eeae55" />
+
+
+Challenge : DML
+Challenge 1 -
+
+Create a new Account named Global FinCorp and two related Contacts.
+
+After inserting, update both Contacts’ Titles to Financial Advisor and mark the Account’s Rating as Hot.
+
+Then delete the Account and undelete it.
+
+Observe what happens to the child Contacts and note your observation.
+
+
+
+Challenge 2 -
+
+Insert 10 new Opportunities under any existing Account.
+
+Each Opportunity should have a Close Date 30 days from today and StageName as Prospecting.
+
+After that, update all Opportunities with Amount less than 5000 to the Qualification stage — using a single DML statement.
+
+
+
+Challenge 3 -
+
+When a new Case is created for any Contact:
+
+Update the Contact’s LastCaseDate__c with today’s date
+
+Insert a Task related to that Case, due in 2 days
+
+If the related Account’s Rating is Cold, update it to Warm
+
+All of this should happen within the same transaction.
+
+
+
+Challenge 4 -
+
+You are inserting 3 Opportunities for a given Account.
+
+If any of them has Amount < 1000, none of them should be inserted.
+
+
+
+Challenge 5 -
+
+Write a code block that tries to insert multiple Accounts records, one of which has a missing required field.
+Use Database.insert() to make sure that even if one record fails, the others are still inserted.
+After execution, display which records succeeded and which failed.
+
+
+
+Challenge 6-
+
+Query all Contact records related to Accounts whose name starts with “Tech”.
+
+Update their Title to “Tech Associate”.
+
+Make sure you handle all DML operations efficiently (no DML inside loops).
+
+
+
+Challenge 7 -
+
+There are three duplicate Account records with the same name “Acme Corp.”.
+
+Use merge to combine them into one, ensuring related Contacts are retained.
+
+
+
+Challenge 8 -
+
+Delete all Opportunity records where StageName = “Closed Lost”.
+
+However, handle the scenario using Database.delete() so that if one delete fails, it doesn’t stop the rest from processing.
+
+
+
+Challenge 9 -
+
+Delete a record, query it from the Recycle Bin using ALL ROWS, and restore it using undelete.
+
+
+
+Challenge 10-
+
+A company called NextGen Finance wants to automate the following flow using Apex:
+
+Create a new Account named NextGen Finance.
+
+Insert three related Contact records.
+
+Update the Account’s custom field Primary_Contact__c with the Id of the first Contact.
+
+Delete the Contact whose last name is 'Temp' (if it exists).
+
+Display the IDs of all successfully created and updated records.
+
+
+
+
+Solution : DML
+Solution 1 -
+
+
+
+// Step 1: Create a new Account record
+
+Account acc = new Account(
+
+    Name = 'Global FinCorp'
+
+);
+
+insert acc;
+
+// Step 2: Create two related Contacts under the same Account
+
+Contact con1 = new Contact(
+
+    FirstName = 'John',
+
+    LastName = 'Doe',
+
+    AccountId = acc.Id
+
+);
+
+Contact con2 = new Contact(
+
+    FirstName = 'Jane',
+
+    LastName = 'Smith',
+
+    AccountId = acc.Id
+
+);
+
+insert new List<Contact>{ con1, con2 };
+
+// Step 3: Update both Contacts' Titles and Account’s Rating
+
+con1.Title = 'Financial Advisor';
+
+con2.Title = 'Financial Advisor';
+
+acc.Rating = 'Hot';
+
+// Perform both updates together
+
+update new List<sObject>{ acc, con1, con2 };
+
+// Step 4: Delete the Account (this will also delete related Contacts)
+
+delete acc;
+
+// Step 5: Undelete the Account
+
+undelete acc;
+
+// Step 6: Query again to check what happened to related Contacts
+
+List<Contact> contactsAfterUndelete = [
+
+    SELECT Id, FirstName, LastName, Title, AccountId
+
+    FROM Contact
+
+    WHERE AccountId = :acc.Id
+
+];
+
+System.debug('Contacts after undelete: ' + contactsAfterUndelete);
+
+
+
+
+
+Solution 2 -
+
+
+
+// Step 1: Get any existing Account to relate Opportunities
+
+Account acc = [SELECT Id, Name FROM Account LIMIT 1];
+
+
+
+// Step 2: Prepare 10 new Opportunities
+
+List<Opportunity> oppList = new List<Opportunity>();
+
+Date closeDate = System.today().addDays(30);
+
+
+
+for (Integer i = 1; i <= 10; i++) {
+
+    Opportunity opp = new Opportunity(
+
+        Name = 'Opportunity ' + i,
+
+        AccountId = acc.Id,
+
+        CloseDate = closeDate,
+
+        StageName = 'Prospecting',
+
+        Amount = i * 1000 // to vary amounts (1000, 2000, ..., 10000)
+
+    );
+
+    oppList.add(opp);
+
+}
+
+
+
+// Step 3: Insert all Opportunities in one DML statement
+
+insert oppList;
+
+
+
+// Step 4: Filter the ones having Amount < 5000 and update their StageName
+
+List<Opportunity> oppsToUpdate = new List<Opportunity>();
+
+
+
+for (Opportunity opp : oppList) {
+
+    if (opp.Amount < 5000) {
+
+        opp.StageName = 'Qualification';
+
+        oppsToUpdate.add(opp);
+
+    }
+
+}
+
+
+
+// Step 5: Update all in a single DML statement
+
+update oppsToUpdate;
+
+
+
+// Step 6: Verify the result
+
+List<Opportunity> updatedOpps = [
+
+    SELECT Name, Amount, StageName
+
+    FROM Opportunity
+
+    WHERE Id IN :oppList
+
+];
+
+
+
+System.debug('Updated Opportunities: ' + updatedOpps);
+
+
+
+Solution 3 -
+
+
+
+// Step 1: Get a Contact with an Account
+
+Contact con = [
+
+    SELECT Id, AccountId, Account.Rating
+
+    FROM Contact
+
+    WHERE AccountId != null
+
+    LIMIT 1
+
+];
+
+
+
+// Step 2: Create a new Case related to that Contact and Account
+
+Case newCase = new Case(
+
+    ContactId = con.Id,
+
+    AccountId = con.AccountId,
+
+    Subject = 'Service Request',
+
+    Status = 'New'
+
+);
+
+insert newCase;
+
+
+
+// Step 3: Update the Contact’s LastCaseDate__c with today’s date
+
+con.LastCaseDate__c = System.today();
+
+update con;
+
+
+
+// Step 4: Create and insert a Task related to that Case, due in 2 days
+
+Task followUp = new Task(
+
+    WhatId = newCase.Id,          // Related to Case
+
+    Subject = 'Follow up on Case',
+
+    ActivityDate = System.today().addDays(2),
+
+    Status = 'Not Started'
+
+);
+
+insert followUp;
+
+
+
+// Step 5: If Account’s Rating is Cold, update it to Warm
+
+if (con.Account.Rating == 'Cold') {
+
+    Account acc = new Account(
+
+        Id = con.AccountId,
+
+        Rating = 'Warm'
+
+    );
+
+    update acc;
+
+}
+
+
+
+// Step 6: Verify
+
+System.debug('Case Created: ' + newCase.Id);
+
+System.debug('Contact Updated: ' + con.Id);
+
+System.debug('Task Created: ' + followUp.Id);
+
+System.debug('Account updated if it was Cold.');
+
+
+
+Solution 4 -
+
+
+
+// Step 1: Get any existing Account
+
+Account acc = [SELECT Id FROM Account LIMIT 1];
+
+
+
+// Step 2: Prepare 3 Opportunities
+
+List<Opportunity> oppList = new List<Opportunity>{
+
+    new Opportunity(Name='Opp A', StageName='Prospecting', CloseDate=System.today().addDays(30), Amount=2000, AccountId=acc.Id),
+
+    new Opportunity(Name='Opp B', StageName='Prospecting', CloseDate=System.today().addDays(30), Amount=500, AccountId=acc.Id),
+
+    new Opportunity(Name='Opp C', StageName='Prospecting', CloseDate=System.today().addDays(30), Amount=3000, AccountId=acc.Id)
+
+};
+
+
+
+// Step 3: Check before insert
+
+for (Opportunity opp : oppList) {
+
+    if (opp.Amount < 1000) {
+
+        System.debug('Insert skipped — atleast one Opportunity has Amount < 1000.');
+
+        return;
+
+    }
+
+}
+
+
+
+// Step 4: Insert all if valid
+
+insert oppList;
+
+System.debug('All Opportunities inserted successfully.');
+
+
+
+Solution 5 -
+
+
+
+// Prepare a list with one invalid record (missing Name)
+
+List<Account> accList = new List<Account>{
+
+    new Account(Name = 'Acme Corporation'),
+
+    new Account(Phone = '1234567890'), // Missing required Name
+
+    new Account(Name = 'Global Tech Solutions')
+
+};
+
+
+
+// Use Database.insert() to allow partial success
+
+Database.SaveResult[] results = Database.insert(accList, false);
+
+
+
+// Display which records succeeded and which failed
+
+for (Integer i = 0; i < results.size(); i++) {
+
+    if (results[i].isSuccess()) {
+
+        System.debug('Record ' + (i+1) + ' inserted successfully. Id: ' + results[i].getId());
+
+    } else {
+
+        System.debug('Record ' + (i+1) + ' failed to insert.');
+
+        for (Database.Error err : results[i].getErrors()) {
+
+            System.debug('   Error message: ' + err.getMessage());
+
+        }
+
+    }
+
+}
+
+
+
+Solution 6-
+
+
+
+List<Contact> contactList = [
+
+    SELECT Id, Name, Title, Account.Name
+
+    FROM Contact
+
+    WHERE Account.Name LIKE 'Tech%'
+
+];
+
+
+
+// Step 2: Update each Contact’s Title
+
+for (Contact con : contactList) {
+
+    con.Title = 'Tech Associate';
+
+}
+
+
+
+// Step 3: Perform one DML statement outside the loop
+
+if (!contactList.isEmpty()) {
+
+    update contactList;
+
+    System.debug('Updated ' + contactList.size() + ' Contacts successfully.');
+
+} else {
+
+    System.debug('No Contacts found for Accounts starting with "Tech".');
+
+}
+
+
+
+Solution 7-
+
+
+
+// Step 1: Query all duplicate Accounts named 'Acme Corp.'
+
+List<Account> accList = [
+
+    SELECT Id, Name
+
+    FROM Account
+
+    WHERE Name = 'Acme Corp.'
+
+];
+
+
+
+// Step 2: Ensure we have at least 2 or more duplicates
+
+if (accList.size() >= 2) {
+
+    // Choose the first record as the master
+
+    Account masterAcc = accList[0];
+
+   
+
+    // The rest will be merged into the master
+
+Account> duplicateAccs = new List<Account>(); for (Integer i = 1; i < accList.size(); i++)
+
+{
+
+duplicateAccs.add(accList[i]);
+
+}
+
+   
+
+    // Step 3: Merge operation
+
+    merge masterAcc duplicateAccs;
+
+   
+
+    System.debug('Merge completed. Master Account Id: ' + masterAcc.Id);
+
+    System.debug('Merged ' + duplicateAccs.size() + ' duplicate Accounts into the master.');
+
+} else {
+
+    System.debug('Not enough duplicate Accounts found to perform merge.');
+
+}
+
+
+
+Solution 8 -
+
+
+
+List<Opportunity> oppList = [
+
+    SELECT Id, Name, StageName
+
+    FROM Opportunity
+
+    WHERE StageName = 'Closed Lost'
+
+];
+
+
+
+// Step 2: Delete them using Database.delete() with partial processing
+
+if (!oppList.isEmpty()) {
+
+    Database.DeleteResult[] deleteResults = Database.delete(oppList, false);
+
+
+
+    // Step 3: Check results for each record
+
+    for (Integer i = 0; i < deleteResults.size(); i++) {
+
+        if (deleteResults[i].isSuccess()) {
+
+            System.debug('Opportunity deleted successfully: ' + oppList[i].Id);
+
+        } else {
+
+            System.debug('Failed to delete Opportunity: ' + oppList[i].Id);
+
+            for (Database.Error err : deleteResults[i].getErrors()) {
+
+                System.debug('   Error message: ' + err.getMessage());
+
+            }
+
+        }
+
+    }
+
+} else {
+
+    System.debug('No Opportunities found with StageName = "Closed Lost".');
+
+}
+
+
+
+Solution 9 -
+
+
+
+// Step 1: Query any existing Account
+
+Account acc = [SELECT Id, Name FROM Account LIMIT 1];
+
+System.debug('Found existing Account: ' + acc.Name);
+
+
+
+// Step 2: Delete the Account
+
+delete acc;
+
+System.debug('Account deleted. It’s now in the Recycle Bin.');
+
+
+
+// Step 3: Query the deleted record using ALL ROWS safely
+
+List<Account> deletedAccList = [
+
+    SELECT Id, Name, IsDeleted
+
+    FROM Account
+
+    WHERE Id = :acc.Id
+
+    ALL ROWS
+
+];
+
+if (!deletedAccList.isEmpty()) {
+
+    Account deletedAcc = deletedAccList[0];
+
+    System.debug('Deleted record found in Recycle Bin: ' + deletedAcc);
+
+   
+
+    // Step 4: Restore the record
+
+    undelete deletedAcc;
+
+    System.debug('Account restored successfully.');
+
+}
+
+
+
+Solution 10 -
+
+
+
+// Create a new Account
+
+Account acc = new Account(Name = 'NextGen Finance');
+
+insert acc;
+
+System.debug('Account created: ' + acc.Id);
+
+
+
+// Insert 3 related Contacts
+
+List<Contact> contactList = new List<Contact>();
+
+contactList.add(new Contact(FirstName = 'John', LastName = 'Smith', AccountId = acc.Id));
+
+contactList.add(new Contact(FirstName = 'Sara', LastName = 'Temp', AccountId = acc.Id));
+
+contactList.add(new Contact(FirstName = 'David', LastName = 'Brown', AccountId = acc.Id));
+
+
+
+insert contactList;
+
+System.debug('Contacts inserted: ' + contactList);
+
+
+
+// Update Account’s Primary_Contact__c with the first Contact’s Id
+
+acc.Primary_Contact__c = contactList[0].Id;
+
+update acc;
+
+System.debug('Account updated with Primary Contact: ' + acc.Primary_Contact__c);
+
+
+
+// Delete the Contact whose last name is 'Temp'
+
+List<Contact> tempContacts = [SELECT Id FROM Contact WHERE AccountId = :acc.Id AND LastName = 'Temp'];
+
+if (!tempContacts.isEmpty()) {
+
+    delete tempContacts;
+
+    System.debug('Deleted Contact(s): ' + tempContacts);
+
+}
+
+
+
+// Display all record IDs
+
+System.debug('Account Id: ' + acc.Id);
+
+for (Contact con : contactList) {
+
+    System.debug('Contact Id: ' + con.Id);
+
+}
+
+
+
 
 
 
