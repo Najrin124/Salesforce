@@ -2720,6 +2720,31 @@ Exit fullscreen
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-27 15-49-44" src="https://github.com/user-attachments/assets/a7f5889b-337f-499e-9057-ee4089118fdc" />
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 15-53-07" src="https://github.com/user-attachments/assets/dd0cf2c9-8383-4126-b38a-8c0f3b0e1fa0" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-06-34" src="https://github.com/user-attachments/assets/00d55626-1e88-4a85-8458-f3333aae3029" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-07-41" src="https://github.com/user-attachments/assets/f80f7cb3-dd9f-4a56-af71-64abd03486ce" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-09-15" src="https://github.com/user-attachments/assets/6f248292-ca46-4975-bdc1-c3778ae5cbbe" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-10-34" src="https://github.com/user-attachments/assets/34df15e5-2863-4310-8a57-24c60053d498" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-11-22" src="https://github.com/user-attachments/assets/3ee8ddfc-577a-4946-8e48-d32127cdabb1" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
