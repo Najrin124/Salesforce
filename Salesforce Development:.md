@@ -2798,6 +2798,185 @@ Exit fullscreen
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-27 16-34-06" src="https://github.com/user-attachments/assets/04dca0f3-fd6e-49d7-b942-4934af283e5f" />
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-36-11" src="https://github.com/user-attachments/assets/1aaacb30-f4cd-4fbc-8189-60a40e4bb60b" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-37-32" src="https://github.com/user-attachments/assets/3e59dad1-9fc7-454d-9b3c-5f43114bfee8" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-38-15" src="https://github.com/user-attachments/assets/9a24323d-92aa-4f5a-8ff6-754089c28e47" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-38-37" src="https://github.com/user-attachments/assets/e38beab9-2306-4f18-9ba5-55fbc1b42c9b" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-39-18" src="https://github.com/user-attachments/assets/7a015950-6bc2-47f6-b1aa-f536758b6763" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-40-09" src="https://github.com/user-attachments/assets/d3c3636e-bcec-4a6c-8908-e49afce879fb" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-40-38" src="https://github.com/user-attachments/assets/2cab6e88-732f-4086-b03d-7eeb023b6ff4" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-41-04" src="https://github.com/user-attachments/assets/b9e7e107-d0b2-48d0-a952-372a702cc4c8" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-27 16-41-50" src="https://github.com/user-attachments/assets/abb50b57-21f5-42c4-8599-389d9ffefb40" />
+
+
+
+
+Use Cases of SOSL Queries
+Global Search Feature  : You want to replicate or customize Salesforce global search in a custom LWC or Apex controller.
+
+for example : FIND {Edge} IN ALL FIELDS RETURNING Account(Id, Name), Contact(Id, Name), Opportunity(Id, Name)
+
+
+
+Universal Lookup Component : When user types a name/keyword, you want to search in multiple objects (Account, Contact, Lead) to link records dynamically.
+
+
+
+for example : FIND {Mohit*} IN NAME FIELDS RETURNING Account(Id, Name), Contact(Id, Name), Lead(Id, Name)
+
+
+
+Searching Notes, Attachments, or Content : To find records in ContentDocument, Attachment, or Note objects that contain a certain keyword.
+
+for example : FIND {Agreement} IN ALL FIELDS RETURNING ContentDocument(Id, Title), Note(Id, Title)
+
+
+
+Multi -object Data Enrichment : When importing data, use SOSL to quickly find possible duplicates across multiple objects (like matching email in Contacts and Leads).
+
+for Example : FIND {mohit@example.com} IN EMAIL FIELDS RETURNING Contact(Id, Email), Lead(Id, Email)
+
+
+
+CRM 360° View Search : You want to show all related records (Accounts, Contacts, Opportunities, Cases) related to a company keyword or name.
+
+for Example : FIND {Edge Communications} IN ALL FIELDS RETURNING Account(Id, Name), Contact(Id, Name), Opportunity(Id, Name), Case(Id, Subject)
+
+
+
+Performance Optimization for Multi-object Text Search : Instead of running multiple SOQLs with LIKE '%keyword%', use one SOSL for faster search across many objects.
+
+for Example : FIND {Loan} RETURNING Loan__c(Id, Name), Application__c(Id, Application_Number__c)
+
+
+
+
+
+
+
+
+Challenge SOSL Queries
+Question: 1
+
+Find all records in your org that contain the word "Edge" in any searchable field of Account, Contact, or Opportunity.
+
+Question: 2
+
+Find Accounts and Contacts whose Name starts with “Sam”.
+
+Question: 3
+
+Find records across Account and Contact objects that contain the phone number ‘1234’.
+
+Question: 4
+
+Find records in Contact and Lead that contain the email ‘john@’.
+
+Question: 5
+Find all Accounts and Contacts containing the word “Global”, but only return Accounts in ‘Customer’ Type and Contacts with Title not null.
+
+Question: 6
+
+Find the first 3 Accounts containing “Tech” in their fields, ordered by Name.
+
+Question: 7
+
+You want to find all Accounts, Contacts, and Opportunities that mention “Acme” anywhere.
+
+Question: 8
+
+You have a custom object Loan__c. Find records where Loan Name or Loan Description contain “Home”.
+
+Question: 9
+
+Find all Notes and Files (ContentDocuments) that include the word “Agreement”.
+
+
+
+
+
+
+Solution : SOSL Queries
+Answer: 1
+
+Find all records in your org that contain the word "Edge" in any searchable field of Account, Contact, or Opportunity.
+
+FIND {Edge} IN ALL FIELDS RETURNING Account(Id, Name), Contact(Id, Name), Opportunity(Id, Name)
+
+Answer: 2
+
+Find Accounts and Contacts whose Name starts with “Sam”.
+
+FIND {Sam*} IN NAME FIELDS RETURNING Account(Id, Name), Contact(Id, Name)
+
+
+
+Answer: 3
+
+Find records across Account and Contact objects that contain the phone number ‘1234’.
+
+FIND {1234} IN PHONE FIELDS RETURNING Account(Id, Name, Phone), Contact(Id, Name, Phone)
+
+Answer: 4
+
+Find records in Contact and Lead that contain the email ‘john@’.
+
+FIND {john@} IN EMAIL FIELDS RETURNING Contact(Id, Name, Email), Lead(Id, Name, Email)
+
+
+
+Answer: 5
+Find all Accounts and Contacts containing the word “Global”, but only return Accounts in ‘Customer’ Type and Contacts with Title not null.
+
+FIND {Global} RETURNING
+
+    Account(Id, Name WHERE Type = 'Customer'),
+
+    Contact(Id, Name, Title WHERE Title != null)
+
+Answer: 6
+
+Find the first 3 Accounts containing “Tech” in their fields, ordered by Name.
+
+FIND {Tech} RETURNING Account(Id, Name WHERE Name != null ORDER BY Name LIMIT 3)
+
+
+
+Answer: 7
+
+You want to find all Accounts, Contacts, and Opportunities that mention “Acme” anywhere.
+
+FIND {Acme} IN ALL FIELDS RETURNING Account(Id, Name), Contact(Id, Name), Opportunity(Id, Name)
+
+Answer: 8
+
+You have a custom object Loan__c. Find records where Loan Name or Loan Description contain “Home”.
+
+FIND {Home} IN ALL FIELDS RETURNING Loan__c(Id, Name, Loan_Description__c)
+
+Answer: 9
+
+Find all Notes and Files (ContentDocuments) that include the word “Agreement”.
+
+FIND {Agreement} IN ALL FIELDS RETURNING
+
+    Note(Id, Title, Body),
+
+    ContentDocument(Id, Title)
+
+
 
 
 
