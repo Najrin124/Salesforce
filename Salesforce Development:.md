@@ -3868,6 +3868,38 @@ for (Contact con : contactList) {
 
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 17-01-06" src="https://github.com/user-attachments/assets/badcf4e8-4c2a-4c4d-8307-e08ef5dd7861" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 17-03-02" src="https://github.com/user-attachments/assets/3a771307-64a9-4acd-b1e4-67850da1217a" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 17-04-52" src="https://github.com/user-attachments/assets/a4e905dd-1ba7-4a59-9126-029852a8e614" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 17-05-33" src="https://github.com/user-attachments/assets/0d6aa899-8ee2-4075-be27-9d62e1cb897b" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 17-06-00" src="https://github.com/user-attachments/assets/c6c8aab4-d731-4139-a4c4-32f602af5d7b" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 17-06-33" src="https://github.com/user-attachments/assets/5b2457a2-569b-4d52-b022-22969e0954e1" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 17-08-57" src="https://github.com/user-attachments/assets/b34345d0-e77f-4990-8e6c-c2ec229ea4a3" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 17-09-26" src="https://github.com/user-attachments/assets/5d562ceb-3b8e-4f22-9885-5c4bdb40d89c" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 17-09-50" src="https://github.com/user-attachments/assets/fdfd7430-95e5-402b-be77-e1d144e5b6c8" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 17-11-16" src="https://github.com/user-attachments/assets/69748235-afe9-4b56-8917-40559f65ea2a" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 17-12-00" src="https://github.com/user-attachments/assets/f6a67ff7-5832-4bde-9e64-845c913593be" />
+
+
+
+
+
+
+
+
 
 
 
