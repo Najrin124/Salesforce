@@ -3850,3 +3850,25 @@ for (Contact con : contactList) {
 
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 10-47-13" src="https://github.com/user-attachments/assets/b3d8aeb6-6b85-4e3e-bd97-9dee3f0fef1f" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 10-48-18" src="https://github.com/user-attachments/assets/9a6c404d-13c2-46a7-aacc-a5b42b2a3e59" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
