@@ -3895,11 +3895,114 @@ for (Contact con : contactList) {
 
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 18-26-24" src="https://github.com/user-attachments/assets/de5a6a1e-5a6a-4189-ba03-29022b1acefb" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 18-27-58" src="https://github.com/user-attachments/assets/86983d3a-8565-4a01-93d5-f43c30aa5520" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 18-29-03" src="https://github.com/user-attachments/assets/ff642221-4420-4147-9373-2303136668ae" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 18-32-04" src="https://github.com/user-attachments/assets/0337ea84-2d09-492a-96ee-0e56289ad767" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 18-33-10" src="https://github.com/user-attachments/assets/91e7155c-2d99-4ff1-a503-e2912b2c624f" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 18-37-09" src="https://github.com/user-attachments/assets/ac562db6-4e83-44ee-af47-1ce8a630be3f" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 18-38-10" src="https://github.com/user-attachments/assets/d811692e-8151-4e9f-9c39-2fe904b7d2ae" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 18-44-10" src="https://github.com/user-attachments/assets/365b958e-8cec-4f2c-99e4-054770d068f0" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-07-01" src="https://github.com/user-attachments/assets/4fd43d63-a8c7-45a5-8610-e1da66aba474" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-08-00" src="https://github.com/user-attachments/assets/65f088ae-3dfc-42df-aaea-3e08797de286" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-08-22" src="https://github.com/user-attachments/assets/02e59b1c-c4ab-4930-bd4a-c481d9479ab2" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-08-52" src="https://github.com/user-attachments/assets/7d55412b-cad1-4974-8c8a-970c0b678d55" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-10-25" src="https://github.com/user-attachments/assets/0b08f0a9-8f64-4eb4-8262-00e9005d7b2f" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-14-13" src="https://github.com/user-attachments/assets/f6136f5b-5a70-42da-8c0b-f03d86003bdb" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-15-34" src="https://github.com/user-attachments/assets/2dbaa89e-91b1-428e-b272-768a9cf4145c" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-18-01" src="https://github.com/user-attachments/assets/516cfa3f-00c9-4fdd-9628-ff0f94b962a5" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-25-41" src="https://github.com/user-attachments/assets/748fc00b-cf7a-4422-94cd-465b18257d73" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-31-20" src="https://github.com/user-attachments/assets/528d14b9-1920-4ae2-a853-0dbd72f62648" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-35-40" src="https://github.com/user-attachments/assets/8999c57a-58f4-4018-bd47-8162512e1d70" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-37-56" src="https://github.com/user-attachments/assets/d8895841-2fa8-4655-82e2-81aad9e9815c" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-39-34" src="https://github.com/user-attachments/assets/bb177cbb-e726-4192-a73d-3d753b9f54a5" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-40-59" src="https://github.com/user-attachments/assets/7da8e38d-f40c-46cb-85b1-9762bd08887a" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-42-49" src="https://github.com/user-attachments/assets/6de2f699-48a1-4557-ab78-04fcf61fa8ba" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-43-21" src="https://github.com/user-attachments/assets/2cdb5ca9-51aa-4397-ae57-77e7ea6dee94" />
 
 
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-43-54" src="https://github.com/user-attachments/assets/8d61584b-5025-4618-b80d-8bc50c1b80ca" />
 
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-44-59" src="https://github.com/user-attachments/assets/48798bb9-c6ac-4b70-8a88-e0f02e379c6b" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-47-11" src="https://github.com/user-attachments/assets/f9a3b720-90a6-4a35-b2f3-42818126e5d9" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-47-46" src="https://github.com/user-attachments/assets/a916aa83-c0bf-4539-b2e0-c43360a3c9b7" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-48-28" src="https://github.com/user-attachments/assets/75b1cdcf-b2b0-46ff-ab19-c5f0d5f00551" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-48-53" src="https://github.com/user-attachments/assets/87102b3c-834f-42a4-892c-eb7fc5dd8478" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-50-15" src="https://github.com/user-attachments/assets/b345856b-bbde-40b3-8915-55c170b99bf7" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-51-35" src="https://github.com/user-attachments/assets/f59649d8-e4cc-4326-af94-4bb099154baa" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-52-36" src="https://github.com/user-attachments/assets/054fc944-2c17-4e6a-bdc0-2ac45769829a" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-53-11" src="https://github.com/user-attachments/assets/54c68e43-3c3b-46e4-bf14-3e77463735e2" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-53-49" src="https://github.com/user-attachments/assets/6b71962d-179c-42fb-85ba-a198657a87f0" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-54-40" src="https://github.com/user-attachments/assets/0348ddf3-c524-4454-a833-b5451f28682d" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-58-40" src="https://github.com/user-attachments/assets/f77d7397-a2c6-4b43-9660-1dfcad90903b" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 19-59-56" src="https://github.com/user-attachments/assets/3f64104b-4f04-41c2-9db0-837c23eed940" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-28 20-00-30" src="https://github.com/user-attachments/assets/16abaf8f-29d6-489d-abbe-8f4f13f709dd" />
 
 
 
