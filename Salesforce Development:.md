@@ -4150,8 +4150,42 @@ for (Contact con : contactList) {
 
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 21-18-41" src="https://github.com/user-attachments/assets/239fa4a1-5077-4ce3-96ac-b3312e1f0f19" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 21-28-12" src="https://github.com/user-attachments/assets/0147794b-816d-43d6-87d0-676261cc62c4" />
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 21-30-43" src="https://github.com/user-attachments/assets/2844c2a0-5578-475a-bee3-683a2507b7c0" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 21-32-26" src="https://github.com/user-attachments/assets/211cf29b-17d1-4b36-b60b-61633c01e24a" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 21-34-42" src="https://github.com/user-attachments/assets/c6c60dfa-22fd-46f5-b5d1-6324d412d2cf" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 21-35-41" src="https://github.com/user-attachments/assets/307533e6-007d-48f5-b7c4-850794379b2e" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 21-37-45" src="https://github.com/user-attachments/assets/264cea5c-b110-43ba-89d1-88844ab877e8" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 21-38-16" src="https://github.com/user-attachments/assets/b2587d93-cd7a-46ed-bb9a-d02b17732913" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 21-38-40" src="https://github.com/user-attachments/assets/698b08f5-49ec-4593-bb58-816ea92338a4" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 21-39-32" src="https://github.com/user-attachments/assets/d1ae836e-1ba5-40af-8546-0aa862789132" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 21-39-56" src="https://github.com/user-attachments/assets/847ed8f7-ba29-42b8-8197-1e525979c95b" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 21-41-23" src="https://github.com/user-attachments/assets/3000ef05-9af3-4099-868a-b056b12d9116" />
+
+
+![Uploading Screenshot from 2026-10-29 21-42-14.png…]()
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 21-42-50" src="https://github.com/user-attachments/assets/bc675caf-645a-449b-b4bf-410d206180f8" />
 
 
 
