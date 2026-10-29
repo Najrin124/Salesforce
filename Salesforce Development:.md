@@ -4107,6 +4107,57 @@ for (Contact con : contactList) {
 
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 10-30-38" src="https://github.com/user-attachments/assets/561bc7fd-6874-4d7a-99de-11f0e5f5e625" />
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 10-32-39" src="https://github.com/user-attachments/assets/6388cff0-ae03-4d7a-a982-8c7d954c882b" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 10-33-16" src="https://github.com/user-attachments/assets/eda07d01-909e-4442-9d8c-d6f9510f51f8" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 10-33-41" src="https://github.com/user-attachments/assets/2414305c-bda8-4d0a-b909-2260930e132e" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 10-35-28" src="https://github.com/user-attachments/assets/08394b16-40d4-4abb-85c2-9372ad3380ab" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 10-34-57" src="https://github.com/user-attachments/assets/cca3e6f1-2579-4902-9f1a-142543af971a" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 10-36-02" src="https://github.com/user-attachments/assets/ac531bf6-3a4c-4297-b4a8-1d2888fb5f23" />
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 10-40-02" src="https://github.com/user-attachments/assets/9a18c25b-73e9-4ae3-b20b-80204890ba4e" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 10-40-42" src="https://github.com/user-attachments/assets/3e7be4ed-750d-4c3b-bdfb-51b39a4ad3ac" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 10-41-27" src="https://github.com/user-attachments/assets/ac43b68f-c84d-4a56-b815-d722714eb770" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 10-42-23" src="https://github.com/user-attachments/assets/21a72407-2d5f-475a-8585-904f9800a1a0" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 10-44-50" src="https://github.com/user-attachments/assets/d1338394-4d3c-4e6f-b65e-4bb8c5a722a3" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-29 10-45-17" src="https://github.com/user-attachments/assets/5b4d32c4-6482-4e69-8077-5353db5c8eb1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
