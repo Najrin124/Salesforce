@@ -4540,3 +4540,47 @@ public class CreateContactTaskQueueable implements Queueable {
 
 
 
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 19-35-41" src="https://github.com/user-attachments/assets/13e8a1e0-b6be-4263-885f-ce50748d2e63" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 19-37-49" src="https://github.com/user-attachments/assets/1f76137a-b0ac-48b0-ae84-c961dd8a5b58" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 19-38-22" src="https://github.com/user-attachments/assets/fe0afe66-4d58-40e4-a8a3-f93f7445537d" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 19-41-22" src="https://github.com/user-attachments/assets/0c982c4b-9ef6-4b79-8000-2ad2281e2bc2" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 19-44-01" src="https://github.com/user-attachments/assets/c7025b99-b218-4ce7-bdf9-668b7a39084c" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 19-45-27" src="https://github.com/user-attachments/assets/00d11e67-99f4-44ac-8717-53adb591a747" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 19-46-05" src="https://github.com/user-attachments/assets/91196ebc-597c-4853-9865-7d17e0477513" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 19-50-34" src="https://github.com/user-attachments/assets/d0cb8608-11da-4913-a2cd-362bdcf23723" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 19-51-59" src="https://github.com/user-attachments/assets/54a3898b-3516-437a-a1e7-ad9a60186a19" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
