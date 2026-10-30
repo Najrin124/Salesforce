@@ -4196,22 +4196,334 @@ for (Contact con : contactList) {
 
 
 
-<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-20-29" src="https://github.com/user-attachments/assets/fa3d9a72-505a-4c70-987b-d3400cbd82f0" />
-
-<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-21-59" src="https://github.com/user-attachments/assets/9dbaccc1-2c6f-4973-9269-e2b8d3c7e38a" />
-
-<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-45-05" src="https://github.com/user-attachments/assets/00979fc6-f43f-4fdd-89a4-7940ccfea39c" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-53-10" src="https://github.com/user-attachments/assets/483b53de-7c35-4b5a-b52a-19e974f7e111" />
 
 
-<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-46-28" src="https://github.com/user-attachments/assets/a2de999c-6867-4113-9a28-d1ec5c58e3c6" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-55-37" src="https://github.com/user-attachments/assets/244fb61c-7d79-4f99-a38f-55d693170ee9" />
 
 
-<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-47-40" src="https://github.com/user-attachments/assets/231eb9ff-90b1-4ade-bde6-72c916a78b7f" />
-
-<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-48-45" src="https://github.com/user-attachments/assets/8bdb73f4-aeab-4d89-87c4-29d69834c061" />
 
 
-<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-49-35" src="https://github.com/user-attachments/assets/01a8c6b0-b998-481e-8b1b-3f9033c7b1a0" />
+
+Challenge : Practice Question/Assignment - Queueable Apex
+Scenario 1: Asynchronous Audit Logging
+Whenever a new Account is created, the system should create an audit/log record, but this should not happen synchronously inside the trigger.
+
+Instead, the trigger should enqueue a Queueable job, and the Queueable job should create the log record.
+
+Create a custom object called Account_Log__c with the following fields:
+
+Account (Lookup to Account)
+
+Action (Text)
+
+Processed Time (Date/Time)
+
+Flow should look like this:
+
+User creates an Account
+
+Trigger fires and enqueues a Queueable job
+
+Queueable job creates a log record
+
+Log record is visible on the Account record
+
+Queueable job execution is visible in Apex Jobs
+
+The trigger should not contain any business logic other than enqueuing the Queueable job.
+
+
+
+Scenario 2: Creating Related Records Asynchronously (Mandatory)
+
+
+Whenever a new Account is created, the system should automatically create a Primary Contact for that Account.
+This logic should again be implemented using Queueable Apex, not directly inside the trigger.
+
+Expected behavior:
+
+User creates an Account
+
+Trigger passes Account Id(s) to Queueable Apex
+
+Queueable Apex queries the Account records
+
+Queueable Apex creates one Contact per Account
+
+The Contact should be visible under the Account record
+
+Make sure:
+
+You do not update trigger context records
+
+You re-query records inside the Queueable job
+
+The trigger remains lightweight.
+
+
+
+Scenario 3: Queueable Chaining
+After completing the first background task, a second background task should run automatically.
+
+You may choose one of the following:
+
+After creating audit log records, create a follow-up Task
+
+After creating the Primary Contact, create a follow-up Task for that Contact
+
+The important part is:
+
+One Queueable job enqueues another Queueable job
+
+Each Queueable has a clear, single responsibility
+
+Jobs execute in sequence
+
+Both jobs are visible in Apex Jobs
+
+Do not chain Queueable jobs inside loops.
+
+
+
+
+
+
+
+
+
+Solution : Practice Question/Assignment - Queueable Apex
+Scenario 1 Solution -
+
+
+
+Trigger -
+
+trigger AccountTrigger on Account (after insert) {
+
+    Set<Id> accountIds = new Set<Id>();
+
+    for (Account acc : Trigger.new) {
+
+        accountIds.add(acc.Id);
+
+    }
+
+    if (!accountIds.isEmpty()) {
+
+        System.enqueueJob(new AccountAuditLogQueueable(accountIds));
+
+    }
+
+}
+
+
+
+Queueable Apex Class -
+
+
+
+public class AccountAuditLogQueueable implements Queueable {
+
+    private Set<Id> accountIds;
+
+    public AccountAuditLogQueueable(Set<Id> accIds) {
+
+        this.accountIds = accIds;
+
+    }
+
+    public void execute(QueueableContext qc) {
+
+        List<Account_Log__c> logsToInsert = new List<Account_Log__c>();
+
+        for (Id accId : accountIds) {
+
+            Account_Log__c log = new Account_Log__c();
+
+            log.Account__c = accId;
+
+            log.Action__c = 'Account Created';
+
+            log.Processed_Time__c = System.now();
+
+            logsToInsert.add(log);
+
+        }
+
+        if (!logsToInsert.isEmpty()) {
+
+            insert logsToInsert;
+
+        }
+
+    }
+
+}
+
+
+
+Scenario 2 Solution : 
+
+
+
+Trigger -
+
+trigger AccountTrigger on Account (after insert) {
+
+    Set<Id> accountIds = new Set<Id>();
+
+    for (Account acc : Trigger.new) {
+
+        accountIds.add(acc.Id);
+
+    }
+
+    if (!accountIds.isEmpty()) {
+
+        System.enqueueJob(new CreatePrimaryContactQueueable(accountIds));
+
+    }
+
+}
+
+
+
+Queuable Apex Class -
+
+
+
+public class CreatePrimaryContactQueueable implements Queueable {
+
+    private Set<Id> accountIds;
+
+    public CreatePrimaryContactQueueable(Set<Id> accIds) {
+
+        this.accountIds = accIds;
+
+    }
+
+    public void execute(QueueableContext qc) {
+
+        List<Contact> contactsToInsert = new List<Contact>();
+
+        List<Account> accounts = [
+
+            SELECT Id, Name
+
+            FROM Account
+
+            WHERE Id IN :accountIds
+
+        ];
+
+        for (Account acc : accounts) {
+
+            Contact con = new Contact();
+
+            con.FirstName = 'Primary';
+
+            con.LastName  = 'Contact';
+
+            con.AccountId = acc.Id;
+
+            contactsToInsert.add(con);
+
+        }
+
+        if (!contactsToInsert.isEmpty()) {
+
+            insert contactsToInsert;
+
+        }
+
+    }
+
+}
+
+
+
+Scenario 3 Solution :
+
+Use the Scenario given in solution 2 and enqueue this new queueable class given below from CreatePrimaryContactQueueable queueable class.
+
+Queueable Apex class :
+
+
+
+public class CreateContactTaskQueueable implements Queueable {
+
+    private Set<Id> contactIds;
+
+    public CreateContactTaskQueueable(Set<Id> conIds) {
+
+        this.contactIds = conIds;
+
+    }
+
+    public void execute(QueueableContext qc) {
+
+        List<Task> tasksToInsert = new List<Task>();
+
+        List<Contact> contacts = [
+
+            SELECT Id
+
+            FROM Contact
+
+            WHERE Id IN :contactIds
+
+        ];
+
+        for (Contact con : contacts) {
+
+            Task t = new Task();
+
+            t.Subject = 'Follow up with new Contact';
+
+            t.whoId  = con.Id;
+
+            t.Status  = 'Not Started';
+
+            t.Priority = 'Normal';
+
+            tasksToInsert.add(t);
+
+        }
+
+        if (!tasksToInsert.isEmpty()) {
+
+            insert tasksToInsert;
+
+        }
+
+    }
+
+}
+
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-59-27" src="https://github.com/user-attachments/assets/f8f792be-3475-407c-b97f-542148dd0059" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-59-49" src="https://github.com/user-attachments/assets/2f20f8d6-1fc0-452e-94f5-ee9edce136ad" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 12-13-54" src="https://github.com/user-attachments/assets/1e71b95c-b927-4718-87e4-9cb87646394d" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 12-15-10" src="https://github.com/user-attachments/assets/b937c821-77ef-400c-902c-b9abd992f5e7" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 12-16-48" src="https://github.com/user-attachments/assets/bde4e44d-11cc-4b6e-9a1f-08ca1389f6f3" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 12-18-42" src="https://github.com/user-attachments/assets/bc123c03-aee6-485a-8bbc-d225a413c313" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 12-20-13" src="https://github.com/user-attachments/assets/0e0c0df6-9d97-4126-bb03-e029097b345d" />
+
+
 
 
 
