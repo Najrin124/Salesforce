@@ -4005,8 +4005,10 @@ for (Contact con : contactList) {
 <img width="1366" height="768" alt="Screenshot from 2026-10-28 20-00-30" src="https://github.com/user-attachments/assets/16abaf8f-29d6-489d-abbe-8f4f13f709dd" />
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 20-53-16" src="https://github.com/user-attachments/assets/fb6dfb5d-967d-4e7e-ae34-aafe0d3dc165" />
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 20-57-55" src="https://github.com/user-attachments/assets/1e452d9b-1556-436b-8f6a-c1bcb3490f5a" />
 
 
 
@@ -4630,6 +4632,79 @@ public class CreateContactTaskQueueable implements Queueable {
 
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-30 20-37-29" src="https://github.com/user-attachments/assets/2fce81db-fee6-4ba2-9635-cd766cdf0e82" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 20-58-42" src="https://github.com/user-attachments/assets/3246f763-9f1b-4476-ab75-b2c34f7f6cb5" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-27-54" src="https://github.com/user-attachments/assets/bc592354-2bdf-485c-aeb8-65cc4058f495" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-28-30" src="https://github.com/user-attachments/assets/0b8a84e9-be20-4318-91e7-e47215aae41e" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-29-23" src="https://github.com/user-attachments/assets/d91e5314-e70c-4a08-81b7-995d3f81a5e3" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-29-50" src="https://github.com/user-attachments/assets/f2ab8ba9-0b16-4f53-9b49-655ccd591ade" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-30-21" src="https://github.com/user-attachments/assets/3ac6d12f-f0fd-469f-ad20-28ed801a49d9" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-31-38" src="https://github.com/user-attachments/assets/7b12df1c-1be5-4c4e-b0d2-cd98d2675443" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-33-19" src="https://github.com/user-attachments/assets/8fa8beb6-1dc1-4aaf-b8c6-306ca32a227d" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-34-15" src="https://github.com/user-attachments/assets/857c58a8-3a57-4dd4-ab31-6b183b3588f6" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-34-36" src="https://github.com/user-attachments/assets/c80ebc54-aa4f-4d22-b698-471d39765cc7" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-38-00" src="https://github.com/user-attachments/assets/23f314f5-f9bf-475a-8e61-5e070f80a306" />
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-39-26" src="https://github.com/user-attachments/assets/a216ac0b-1484-46c4-b5c9-5210bade10bc" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-39-49" src="https://github.com/user-attachments/assets/706da7ab-9956-4d29-b533-fd9a8c45eebd" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-40-12" src="https://github.com/user-attachments/assets/e63dfc62-8971-4225-b929-1fec7951d5f8" />
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-40-44" src="https://github.com/user-attachments/assets/397ee193-dc18-4eb2-9abb-be553536897f" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-41-49" src="https://github.com/user-attachments/assets/7562de2b-5007-446a-8aad-3227f9f95fe0" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 21-44-17" src="https://github.com/user-attachments/assets/0d25440d-5758-4c73-a3a9-6d4e941e630b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
