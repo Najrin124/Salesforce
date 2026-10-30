@@ -4196,6 +4196,24 @@ for (Contact con : contactList) {
 
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-20-29" src="https://github.com/user-attachments/assets/fa3d9a72-505a-4c70-987b-d3400cbd82f0" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-21-59" src="https://github.com/user-attachments/assets/9dbaccc1-2c6f-4973-9269-e2b8d3c7e38a" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-45-05" src="https://github.com/user-attachments/assets/00979fc6-f43f-4fdd-89a4-7940ccfea39c" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-46-28" src="https://github.com/user-attachments/assets/a2de999c-6867-4113-9a28-d1ec5c58e3c6" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-47-40" src="https://github.com/user-attachments/assets/231eb9ff-90b1-4ade-bde6-72c916a78b7f" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-48-45" src="https://github.com/user-attachments/assets/8bdb73f4-aeab-4d89-87c4-29d69834c061" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-30 11-49-35" src="https://github.com/user-attachments/assets/01a8c6b0-b998-481e-8b1b-3f9033c7b1a0" />
+
+
 
 
 
