@@ -4729,3 +4729,347 @@ public class CreateContactTaskQueueable implements Queueable {
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-31 21-54-23" src="https://github.com/user-attachments/assets/ff2015c1-fe75-47a5-9197-a68cc0aac7bb" />
 
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 22-47-49" src="https://github.com/user-attachments/assets/326bd833-d4e1-4455-ac22-4661b0948395" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 22-49-29" src="https://github.com/user-attachments/assets/330e7c45-c58f-4e73-bc50-9a633f250c60" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 22-51-31" src="https://github.com/user-attachments/assets/d528363b-8cf0-407f-99dd-53c4d34aec7d" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 22-52-54" src="https://github.com/user-attachments/assets/0701ac26-726f-45cb-88d0-0855b13a1188" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 22-53-23" src="https://github.com/user-attachments/assets/4c08029f-e634-47da-9c45-c1e9edbee78a" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 22-53-59" src="https://github.com/user-attachments/assets/4ae52108-3d04-4149-a69f-f00fa57efa16" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 22-54-43" src="https://github.com/user-attachments/assets/bdf75223-cc2b-499c-a381-6378b4880781" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 22-56-00" src="https://github.com/user-attachments/assets/8446f9c3-79bc-4bb2-947f-1e59f4ceee7e" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 22-56-24" src="https://github.com/user-attachments/assets/ae978ce7-35e8-4474-975e-31750a196059" />
+
+
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 22-57-03" src="https://github.com/user-attachments/assets/ba67e041-87e7-429e-b2c4-ddcfa4ab499d" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 22-58-16" src="https://github.com/user-attachments/assets/facf5546-2ec5-486e-8071-f3e797b99291" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 22-58-41" src="https://github.com/user-attachments/assets/4bd56db8-c839-49ba-9995-4d81a244d1ef" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-00-23" src="https://github.com/user-attachments/assets/4ee398d4-956d-4df5-bad6-a3011297c518" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-00-47" src="https://github.com/user-attachments/assets/d2b235bb-72f0-41fb-a9e8-767f7ba35a19" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-05-21" src="https://github.com/user-attachments/assets/9dea656b-0b12-40ba-8300-8c0fe2f24de7" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-05-57" src="https://github.com/user-attachments/assets/b8732306-a102-4938-b5d6-b96093460cbf" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-08-09" src="https://github.com/user-attachments/assets/c952ab48-7f7d-4566-9c51-7fa269acb874" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-09-27" src="https://github.com/user-attachments/assets/387dc089-5b85-42d6-95fd-163c3b000e68" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-10-15" src="https://github.com/user-attachments/assets/bafb1a07-11f9-4a0a-a4ec-92853ae2590b" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-12-37" src="https://github.com/user-attachments/assets/5a8ffc2b-24cd-47e1-9bcc-8047d9bea380" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-13-08" src="https://github.com/user-attachments/assets/372b73b0-de99-4e2f-b1f4-463925609240" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-13-40" src="https://github.com/user-attachments/assets/76c3d080-0d12-4ea3-85d1-67d521e9cf11" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-14-57" src="https://github.com/user-attachments/assets/0459ab2c-9868-4782-80eb-f1b619f548ef" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-15-25" src="https://github.com/user-attachments/assets/e24a0804-6eea-4ed7-ab7c-bb9c60ba3828" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-16-04" src="https://github.com/user-attachments/assets/32db2bc1-25d8-4e87-a529-aad503104b0f" />
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-19-01" src="https://github.com/user-attachments/assets/417b2bc9-5165-4bf3-a407-60a367d54816" />
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-20-05" src="https://github.com/user-attachments/assets/5cc47657-fa73-448e-adbe-2c79290fed31" />
+
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-21-01" src="https://github.com/user-attachments/assets/2048ad12-aaeb-4060-b473-6d04674a516e" />
+
+
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-21-56" src="https://github.com/user-attachments/assets/79ebcd36-bb66-4b5f-ad37-416e84de0c46" />
+
+
+
+<img width="1366" height="768" alt="Screenshot from 2026-10-31 23-22-54" src="https://github.com/user-attachments/assets/df4d2897-c02a-4b81-8844-43687ec4accc" />
+
+
+
+
+
+
+
+
+
+
+
+
+This assignment helps you practise everything covered in this section by writing real test classes.
+
+How to complete this assignment
+
+Each question gives you some starter code: a trigger or class to test. Create it in your org first using the Developer Console (File → New → Apex Class or Apex Trigger).
+
+Then write the test class the question asks for.
+
+Run your tests from the Developer Console using Test → New Run, select your test class, and click Run.
+
+Check the results in the Tests tab at the bottom. All test methods should pass.
+
+Check code coverage by opening the class or trigger you tested and selecting the coverage option at the top of the editor.
+
+Rules for every test you write
+
+Use assertions in every test method. A test without assertions only proves that the code ran, not that it worked.
+
+Create your own test data. Don’t use SeeAllData=true.
+
+Use Test.startTest() and Test.stopTest() around the code you are testing.
+
+Note: if your org already has a trigger or class with the same name from earlier sections, rename the starter code slightly, for example AccountRatingTrigger2.
+
+Try every question on your own before looking at the solutions.
+
+Questions for this assignment
+Question 1: Test a trigger (positive, negative, and bulk tests)
+
+Create this trigger in your org:
+
+apex
+
+trigger AccountRatingTrigger on Account (before insert) {
+
+    for (Account acc : Trigger.new) {
+
+        if (acc.Rating == null) {
+
+            acc.Rating = 'Warm';
+
+        }
+
+    }
+
+}
+
+Write a test class called AccountRatingTriggerTest with three test methods:
+
+Insert an Account without a Rating, and assert that its Rating is ‘Warm’.
+
+Insert an Account with Rating ‘Hot’, and assert that its Rating is still ‘Hot’.
+
+Insert 200 Accounts without a Rating, and assert that all 200 have Rating ‘Warm’.
+
+Aim for 100% coverage of the trigger.
+
+Test an Apex class (positive and exception tests)
+
+Create this class in your org:
+
+apex
+
+public class DiscountCalculator {
+
+
+
+    public class DiscountException extends Exception {}
+
+
+
+    public static Decimal getFinalPrice(Decimal price, Decimal discountPercent) {
+
+        if (!isValidPercent(discountPercent)) {
+
+            throw new DiscountException('Discount must be between 0 and 100');
+
+        }
+
+        return price - (price * discountPercent / 100);
+
+    }
+
+
+
+    private static Boolean isValidPercent(Decimal discountPercent) {
+
+        return discountPercent != null && discountPercent >= 0 && discountPercent <= 100;
+
+    }
+
+}
+
+Write a test class called DiscountCalculatorTest that tests:
+
+A valid discount: a price of 1000 with a 10% discount should return 900.
+
+An invalid discount: a discount of 150 should throw a DiscountException with the message ‘Discount must be between 0 and 100’.
+
+The boundary values: a discount of 0 should return the full price, and a discount of 100 should return 0.
+
+Hint: For the exception test, use try-catch. Also make sure the test fails if no exception is thrown.
+
+Create a TestDataFactory
+
+Create a reusable test data class called TestDataFactory with this method:
+
+apex
+
+public static List<Account> createAccounts(Integer count, String rating, Boolean doInsert)
+
+The method should:
+
+Create the given number of Accounts, named ‘Test Account 1’, ‘Test Account 2’, and so on
+
+Set the given Rating on each one
+
+Insert them only if doInsert is true
+
+Return the list
+
+Then update your test class from Question 1 so that the bulk test uses TestDataFactory to create its 200 Accounts.
+
+Use @TestSetup
+
+Create this class in your org:
+
+apex
+
+public class AccountService {
+
+    public static List<Account> getAccountsByRating(String rating) {
+
+        return [SELECT Id, Name, Rating FROM Account WHERE Rating = :rating];
+
+    }
+
+}
+
+Write a test class called AccountServiceTest that:
+
+Uses a @TestSetup method to create 3 ‘Hot’ Accounts and 2 ‘Cold’ Accounts, using your TestDataFactory.
+
+Has a test method that asserts getAccountsByRating(‘Hot’) returns 3 records.
+
+Has a test method that asserts getAccountsByRating(‘Cold’) returns 2 records.
+
+Has a test method that deletes all the ‘Hot’ Accounts, and then asserts that getAccountsByRating(‘Hot’) returns 0 records.
+
+Look at the DiscountCalculator class from Question 2. The isValidPercent() method is private, so your test class can’t call it directly.
+
+Add the right annotation to isValidPercent() so that your test class can call it.
+
+Add a new test method to DiscountCalculatorTest that calls isValidPercent() directly and asserts the result for these values: 50 (true), -1 (false), 101 (false), and null (false).
+
+Test asynchronous Apex with Test.startTest() and Test.stopTest()
+
+Create this Queueable class in your org:
+
+apex
+
+public class AccountDescriptionQueueable implements Queueable {
+
+
+
+    private Set<Id> accountIds;
+
+
+
+    public AccountDescriptionQueueable(Set<Id> accountIds) {
+
+        this.accountIds = accountIds;
+
+    }
+
+
+
+    public void execute(QueueableContext context) {
+
+        List<Account> accounts = [SELECT Id FROM Account WHERE Id IN :accountIds];
+
+        for (Account acc : accounts) {
+
+            acc.Description = 'Processed';
+
+        }
+
+        update accounts;
+
+    }
+
+}
+
+Write a test class called AccountDescriptionQueueableTest that:
+
+Creates 5 Accounts using TestDataFactory
+
+Enqueues the job with those Account Ids
+
+Asserts that all 5 Accounts have Description ‘Processed’
+
+Scenario questions
+
+No code needed. Answer each one.
+
+a) A developer’s test class gives 95% code coverage, but it has no assertions. Is this a good test class? Why or why not?
+
+b) Your test method inserts 10 Accounts. After the test finishes, will those Accounts appear in your org?
+
+c) Can you use a @TestSetup method in a test class annotated with @isTest(SeeAllData=true)?
+
+d) In a test class with a @TestSetup method, test method A updates a record’s Name. Will test method B see the updated Name?
+
+e) What are the two main reasons to use Test.startTest() and Test.stopTest()?
+
+f) What is the minimum code coverage needed to deploy Apex to production? Is that requirement per class or for the whole org?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
